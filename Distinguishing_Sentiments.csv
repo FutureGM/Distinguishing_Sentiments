@@ -1,0 +1,526 @@
+,Account,Compound,Created Date,Negative,Neutral,Positive,Tweet Text,Tweets Ago
+0,@BBCWorld,-0.4939,Wed Apr 18 03:48:34 +0000 2018,0.39,0.61,0.0,Malaria experts fear disease's resurgence https://t.co/dppRstozPC,1
+1,@BBCWorld,0.0,Wed Apr 18 03:25:32 +0000 2018,0.0,1.0,0.0,"RT @samanthaTVnews: As #starbucks prepares to shut 8000 US stores for racial training over its treatment of 2 black men, we’re asking if th…",2
+2,@BBCWorld,-0.5994,Wed Apr 18 02:39:42 +0000 2018,0.45,0.55,0.0,Australian surf event cancelled after shark attacks https://t.co/cvkssQ0MFB,3
+3,@BBCWorld,0.5719,Wed Apr 18 01:45:00 +0000 2018,0.0,0.73,0.27,RT @BBCNewsAsia: Jessie J has won China's version of the X Factor. https://t.co/BR0CmirTIM,4
+4,@BBCWorld,0.0,Wed Apr 18 01:38:00 +0000 2018,0.0,1.0,0.0,"CIA director Mike Pompeo travelled to Pyongyang for a secret meeting with North Korean leader Kim Jong-un, US media… https://t.co/qwz3ZZgeHv",5
+5,@BBCWorld,0.0,Wed Apr 18 01:31:33 +0000 2018,0.0,1.0,0.0,In pictures: Israel at 70 - seven iconic moments https://t.co/9ZVWJdoD5t,6
+6,@BBCWorld,0.5859,Wed Apr 18 01:31:32 +0000 2018,0.0,0.676,0.324,Will China beat the world to nuclear fusion and clean energy? https://t.co/iOrhnIEQAm,7
+7,@BBCWorld,-0.7964,Wed Apr 18 01:31:32 +0000 2018,0.618,0.382,0.0,Turkey's anti-war protesters detained: 'Everything is a crime' https://t.co/E1JWsLiMzY,8
+8,@BBCWorld,0.128,Wed Apr 18 01:31:32 +0000 2018,0.248,0.459,0.294,Sweden's deadly problem with hand grenades https://t.co/CJNhbKXaTX,9
+9,@BBCWorld,-0.5106,Wed Apr 18 01:31:32 +0000 2018,0.32,0.68,0.0,Sting: 'Cultural appropriation is an ugly term' https://t.co/PeV0OtKpSF,10
+10,@BBCWorld,0.0,Wed Apr 18 01:31:32 +0000 2018,0.0,1.0,0.0,Commonwealth Games: A turning point for Indian sport? https://t.co/cRyRl9G2Fz,11
+11,@BBCWorld,0.0,Wed Apr 18 00:44:37 +0000 2018,0.0,1.0,0.0,"Barbara Bush, matriarch of US political dynasty, dies at 92 https://t.co/GH1giNY8sP",12
+12,@BBCWorld,0.0,Tue Apr 17 23:49:23 +0000 2018,0.0,1.0,0.0,Former US First Lady Barbara Bush dies at 92 https://t.co/lvOhTFTe2v,13
+13,@BBCWorld,0.0,Tue Apr 17 23:49:22 +0000 2018,0.0,1.0,0.0,"Braille, strips and tactile signs https://t.co/egZDGQ3y04",14
+14,@BBCWorld,-0.5106,Tue Apr 17 21:55:55 +0000 2018,0.268,0.732,0.0,"RT @BBCNorthAmerica: Trump: 'Without me, Olympics would've been a failure' https://t.co/hvI9Vu5QDp",15
+15,@BBCWorld,0.0,Tue Apr 17 21:10:42 +0000 2018,0.0,1.0,0.0,Stormy Daniels: 'That's between Trump and his family' https://t.co/aKWSRlxing,16
+16,@BBCWorld,0.0,Tue Apr 17 20:51:27 +0000 2018,0.0,1.0,0.0,Watch US tornado rip roof from house https://t.co/tQltrbmZ1V,17
+17,@BBCWorld,0.0,Tue Apr 17 20:34:07 +0000 2018,0.0,1.0,0.0,Stormy Daniels unveils sketch of man who 'threatened' her https://t.co/y7qq4g5acK,18
+18,@BBCWorld,0.34,Tue Apr 17 20:34:07 +0000 2018,0.0,0.806,0.194,Abe commends Trump for agreeing to summit with Kim Jong-un https://t.co/kKFAWAtVdM,19
+19,@BBCWorld,0.0,Tue Apr 17 20:32:52 +0000 2018,0.0,1.0,0.0,RT @BBC_HaveYourSay: When a seven-hour hike turns into a photographic proposal by storytelling artist @LydiaFama to partner and fellow game…,20
+20,@BBCWorld,-0.4939,Wed Apr 18 03:48:34 +0000 2018,0.39,0.61,0.0,Malaria experts fear disease's resurgence https://t.co/dppRstozPC,21
+21,@BBCWorld,0.0,Wed Apr 18 03:25:32 +0000 2018,0.0,1.0,0.0,"RT @samanthaTVnews: As #starbucks prepares to shut 8000 US stores for racial training over its treatment of 2 black men, we’re asking if th…",22
+22,@BBCWorld,-0.5994,Wed Apr 18 02:39:42 +0000 2018,0.45,0.55,0.0,Australian surf event cancelled after shark attacks https://t.co/cvkssQ0MFB,23
+23,@BBCWorld,0.5719,Wed Apr 18 01:45:00 +0000 2018,0.0,0.73,0.27,RT @BBCNewsAsia: Jessie J has won China's version of the X Factor. https://t.co/BR0CmirTIM,24
+24,@BBCWorld,0.0,Wed Apr 18 01:38:00 +0000 2018,0.0,1.0,0.0,"CIA director Mike Pompeo travelled to Pyongyang for a secret meeting with North Korean leader Kim Jong-un, US media… https://t.co/qwz3ZZgeHv",25
+25,@BBCWorld,0.0,Wed Apr 18 01:31:33 +0000 2018,0.0,1.0,0.0,In pictures: Israel at 70 - seven iconic moments https://t.co/9ZVWJdoD5t,26
+26,@BBCWorld,0.5859,Wed Apr 18 01:31:32 +0000 2018,0.0,0.676,0.324,Will China beat the world to nuclear fusion and clean energy? https://t.co/iOrhnIEQAm,27
+27,@BBCWorld,-0.7964,Wed Apr 18 01:31:32 +0000 2018,0.618,0.382,0.0,Turkey's anti-war protesters detained: 'Everything is a crime' https://t.co/E1JWsLiMzY,28
+28,@BBCWorld,0.128,Wed Apr 18 01:31:32 +0000 2018,0.248,0.459,0.294,Sweden's deadly problem with hand grenades https://t.co/CJNhbKXaTX,29
+29,@BBCWorld,-0.5106,Wed Apr 18 01:31:32 +0000 2018,0.32,0.68,0.0,Sting: 'Cultural appropriation is an ugly term' https://t.co/PeV0OtKpSF,30
+30,@BBCWorld,0.0,Wed Apr 18 01:31:32 +0000 2018,0.0,1.0,0.0,Commonwealth Games: A turning point for Indian sport? https://t.co/cRyRl9G2Fz,31
+31,@BBCWorld,0.0,Wed Apr 18 00:44:37 +0000 2018,0.0,1.0,0.0,"Barbara Bush, matriarch of US political dynasty, dies at 92 https://t.co/GH1giNY8sP",32
+32,@BBCWorld,0.0,Tue Apr 17 23:49:23 +0000 2018,0.0,1.0,0.0,Former US First Lady Barbara Bush dies at 92 https://t.co/lvOhTFTe2v,33
+33,@BBCWorld,0.0,Tue Apr 17 23:49:22 +0000 2018,0.0,1.0,0.0,"Braille, strips and tactile signs https://t.co/egZDGQ3y04",34
+34,@BBCWorld,-0.5106,Tue Apr 17 21:55:55 +0000 2018,0.268,0.732,0.0,"RT @BBCNorthAmerica: Trump: 'Without me, Olympics would've been a failure' https://t.co/hvI9Vu5QDp",35
+35,@BBCWorld,0.0,Tue Apr 17 21:10:42 +0000 2018,0.0,1.0,0.0,Stormy Daniels: 'That's between Trump and his family' https://t.co/aKWSRlxing,36
+36,@BBCWorld,0.0,Tue Apr 17 20:51:27 +0000 2018,0.0,1.0,0.0,Watch US tornado rip roof from house https://t.co/tQltrbmZ1V,37
+37,@BBCWorld,0.0,Tue Apr 17 20:34:07 +0000 2018,0.0,1.0,0.0,Stormy Daniels unveils sketch of man who 'threatened' her https://t.co/y7qq4g5acK,38
+38,@BBCWorld,0.34,Tue Apr 17 20:34:07 +0000 2018,0.0,0.806,0.194,Abe commends Trump for agreeing to summit with Kim Jong-un https://t.co/kKFAWAtVdM,39
+39,@BBCWorld,0.0,Tue Apr 17 20:32:52 +0000 2018,0.0,1.0,0.0,RT @BBC_HaveYourSay: When a seven-hour hike turns into a photographic proposal by storytelling artist @LydiaFama to partner and fellow game…,40
+40,@BBCWorld,-0.4939,Wed Apr 18 03:48:34 +0000 2018,0.39,0.61,0.0,Malaria experts fear disease's resurgence https://t.co/dppRstozPC,41
+41,@BBCWorld,0.0,Wed Apr 18 03:25:32 +0000 2018,0.0,1.0,0.0,"RT @samanthaTVnews: As #starbucks prepares to shut 8000 US stores for racial training over its treatment of 2 black men, we’re asking if th…",42
+42,@BBCWorld,-0.5994,Wed Apr 18 02:39:42 +0000 2018,0.45,0.55,0.0,Australian surf event cancelled after shark attacks https://t.co/cvkssQ0MFB,43
+43,@BBCWorld,0.5719,Wed Apr 18 01:45:00 +0000 2018,0.0,0.73,0.27,RT @BBCNewsAsia: Jessie J has won China's version of the X Factor. https://t.co/BR0CmirTIM,44
+44,@BBCWorld,0.0,Wed Apr 18 01:38:00 +0000 2018,0.0,1.0,0.0,"CIA director Mike Pompeo travelled to Pyongyang for a secret meeting with North Korean leader Kim Jong-un, US media… https://t.co/qwz3ZZgeHv",45
+45,@BBCWorld,0.0,Wed Apr 18 01:31:33 +0000 2018,0.0,1.0,0.0,In pictures: Israel at 70 - seven iconic moments https://t.co/9ZVWJdoD5t,46
+46,@BBCWorld,0.5859,Wed Apr 18 01:31:32 +0000 2018,0.0,0.676,0.324,Will China beat the world to nuclear fusion and clean energy? https://t.co/iOrhnIEQAm,47
+47,@BBCWorld,-0.7964,Wed Apr 18 01:31:32 +0000 2018,0.618,0.382,0.0,Turkey's anti-war protesters detained: 'Everything is a crime' https://t.co/E1JWsLiMzY,48
+48,@BBCWorld,0.128,Wed Apr 18 01:31:32 +0000 2018,0.248,0.459,0.294,Sweden's deadly problem with hand grenades https://t.co/CJNhbKXaTX,49
+49,@BBCWorld,-0.5106,Wed Apr 18 01:31:32 +0000 2018,0.32,0.68,0.0,Sting: 'Cultural appropriation is an ugly term' https://t.co/PeV0OtKpSF,50
+50,@BBCWorld,0.0,Wed Apr 18 01:31:32 +0000 2018,0.0,1.0,0.0,Commonwealth Games: A turning point for Indian sport? https://t.co/cRyRl9G2Fz,51
+51,@BBCWorld,0.0,Wed Apr 18 00:44:37 +0000 2018,0.0,1.0,0.0,"Barbara Bush, matriarch of US political dynasty, dies at 92 https://t.co/GH1giNY8sP",52
+52,@BBCWorld,0.0,Tue Apr 17 23:49:23 +0000 2018,0.0,1.0,0.0,Former US First Lady Barbara Bush dies at 92 https://t.co/lvOhTFTe2v,53
+53,@BBCWorld,0.0,Tue Apr 17 23:49:22 +0000 2018,0.0,1.0,0.0,"Braille, strips and tactile signs https://t.co/egZDGQ3y04",54
+54,@BBCWorld,-0.5106,Tue Apr 17 21:55:55 +0000 2018,0.268,0.732,0.0,"RT @BBCNorthAmerica: Trump: 'Without me, Olympics would've been a failure' https://t.co/hvI9Vu5QDp",55
+55,@BBCWorld,0.0,Tue Apr 17 21:10:42 +0000 2018,0.0,1.0,0.0,Stormy Daniels: 'That's between Trump and his family' https://t.co/aKWSRlxing,56
+56,@BBCWorld,0.0,Tue Apr 17 20:51:27 +0000 2018,0.0,1.0,0.0,Watch US tornado rip roof from house https://t.co/tQltrbmZ1V,57
+57,@BBCWorld,0.0,Tue Apr 17 20:34:07 +0000 2018,0.0,1.0,0.0,Stormy Daniels unveils sketch of man who 'threatened' her https://t.co/y7qq4g5acK,58
+58,@BBCWorld,0.34,Tue Apr 17 20:34:07 +0000 2018,0.0,0.806,0.194,Abe commends Trump for agreeing to summit with Kim Jong-un https://t.co/kKFAWAtVdM,59
+59,@BBCWorld,0.0,Tue Apr 17 20:32:52 +0000 2018,0.0,1.0,0.0,RT @BBC_HaveYourSay: When a seven-hour hike turns into a photographic proposal by storytelling artist @LydiaFama to partner and fellow game…,60
+60,@BBCWorld,-0.4939,Wed Apr 18 03:48:34 +0000 2018,0.39,0.61,0.0,Malaria experts fear disease's resurgence https://t.co/dppRstozPC,61
+61,@BBCWorld,0.0,Wed Apr 18 03:25:32 +0000 2018,0.0,1.0,0.0,"RT @samanthaTVnews: As #starbucks prepares to shut 8000 US stores for racial training over its treatment of 2 black men, we’re asking if th…",62
+62,@BBCWorld,-0.5994,Wed Apr 18 02:39:42 +0000 2018,0.45,0.55,0.0,Australian surf event cancelled after shark attacks https://t.co/cvkssQ0MFB,63
+63,@BBCWorld,0.5719,Wed Apr 18 01:45:00 +0000 2018,0.0,0.73,0.27,RT @BBCNewsAsia: Jessie J has won China's version of the X Factor. https://t.co/BR0CmirTIM,64
+64,@BBCWorld,0.0,Wed Apr 18 01:38:00 +0000 2018,0.0,1.0,0.0,"CIA director Mike Pompeo travelled to Pyongyang for a secret meeting with North Korean leader Kim Jong-un, US media… https://t.co/qwz3ZZgeHv",65
+65,@BBCWorld,0.0,Wed Apr 18 01:31:33 +0000 2018,0.0,1.0,0.0,In pictures: Israel at 70 - seven iconic moments https://t.co/9ZVWJdoD5t,66
+66,@BBCWorld,0.5859,Wed Apr 18 01:31:32 +0000 2018,0.0,0.676,0.324,Will China beat the world to nuclear fusion and clean energy? https://t.co/iOrhnIEQAm,67
+67,@BBCWorld,-0.7964,Wed Apr 18 01:31:32 +0000 2018,0.618,0.382,0.0,Turkey's anti-war protesters detained: 'Everything is a crime' https://t.co/E1JWsLiMzY,68
+68,@BBCWorld,0.128,Wed Apr 18 01:31:32 +0000 2018,0.248,0.459,0.294,Sweden's deadly problem with hand grenades https://t.co/CJNhbKXaTX,69
+69,@BBCWorld,-0.5106,Wed Apr 18 01:31:32 +0000 2018,0.32,0.68,0.0,Sting: 'Cultural appropriation is an ugly term' https://t.co/PeV0OtKpSF,70
+70,@BBCWorld,0.0,Wed Apr 18 01:31:32 +0000 2018,0.0,1.0,0.0,Commonwealth Games: A turning point for Indian sport? https://t.co/cRyRl9G2Fz,71
+71,@BBCWorld,0.0,Wed Apr 18 00:44:37 +0000 2018,0.0,1.0,0.0,"Barbara Bush, matriarch of US political dynasty, dies at 92 https://t.co/GH1giNY8sP",72
+72,@BBCWorld,0.0,Tue Apr 17 23:49:23 +0000 2018,0.0,1.0,0.0,Former US First Lady Barbara Bush dies at 92 https://t.co/lvOhTFTe2v,73
+73,@BBCWorld,0.0,Tue Apr 17 23:49:22 +0000 2018,0.0,1.0,0.0,"Braille, strips and tactile signs https://t.co/egZDGQ3y04",74
+74,@BBCWorld,-0.5106,Tue Apr 17 21:55:55 +0000 2018,0.268,0.732,0.0,"RT @BBCNorthAmerica: Trump: 'Without me, Olympics would've been a failure' https://t.co/hvI9Vu5QDp",75
+75,@BBCWorld,0.0,Tue Apr 17 21:10:42 +0000 2018,0.0,1.0,0.0,Stormy Daniels: 'That's between Trump and his family' https://t.co/aKWSRlxing,76
+76,@BBCWorld,0.0,Tue Apr 17 20:51:27 +0000 2018,0.0,1.0,0.0,Watch US tornado rip roof from house https://t.co/tQltrbmZ1V,77
+77,@BBCWorld,0.0,Tue Apr 17 20:34:07 +0000 2018,0.0,1.0,0.0,Stormy Daniels unveils sketch of man who 'threatened' her https://t.co/y7qq4g5acK,78
+78,@BBCWorld,0.34,Tue Apr 17 20:34:07 +0000 2018,0.0,0.806,0.194,Abe commends Trump for agreeing to summit with Kim Jong-un https://t.co/kKFAWAtVdM,79
+79,@BBCWorld,0.0,Tue Apr 17 20:32:52 +0000 2018,0.0,1.0,0.0,RT @BBC_HaveYourSay: When a seven-hour hike turns into a photographic proposal by storytelling artist @LydiaFama to partner and fellow game…,80
+80,@BBCWorld,-0.4939,Wed Apr 18 03:48:34 +0000 2018,0.39,0.61,0.0,Malaria experts fear disease's resurgence https://t.co/dppRstozPC,81
+81,@BBCWorld,0.0,Wed Apr 18 03:25:32 +0000 2018,0.0,1.0,0.0,"RT @samanthaTVnews: As #starbucks prepares to shut 8000 US stores for racial training over its treatment of 2 black men, we’re asking if th…",82
+82,@BBCWorld,-0.5994,Wed Apr 18 02:39:42 +0000 2018,0.45,0.55,0.0,Australian surf event cancelled after shark attacks https://t.co/cvkssQ0MFB,83
+83,@BBCWorld,0.5719,Wed Apr 18 01:45:00 +0000 2018,0.0,0.73,0.27,RT @BBCNewsAsia: Jessie J has won China's version of the X Factor. https://t.co/BR0CmirTIM,84
+84,@BBCWorld,0.0,Wed Apr 18 01:38:00 +0000 2018,0.0,1.0,0.0,"CIA director Mike Pompeo travelled to Pyongyang for a secret meeting with North Korean leader Kim Jong-un, US media… https://t.co/qwz3ZZgeHv",85
+85,@BBCWorld,0.0,Wed Apr 18 01:31:33 +0000 2018,0.0,1.0,0.0,In pictures: Israel at 70 - seven iconic moments https://t.co/9ZVWJdoD5t,86
+86,@BBCWorld,0.5859,Wed Apr 18 01:31:32 +0000 2018,0.0,0.676,0.324,Will China beat the world to nuclear fusion and clean energy? https://t.co/iOrhnIEQAm,87
+87,@BBCWorld,-0.7964,Wed Apr 18 01:31:32 +0000 2018,0.618,0.382,0.0,Turkey's anti-war protesters detained: 'Everything is a crime' https://t.co/E1JWsLiMzY,88
+88,@BBCWorld,0.128,Wed Apr 18 01:31:32 +0000 2018,0.248,0.459,0.294,Sweden's deadly problem with hand grenades https://t.co/CJNhbKXaTX,89
+89,@BBCWorld,-0.5106,Wed Apr 18 01:31:32 +0000 2018,0.32,0.68,0.0,Sting: 'Cultural appropriation is an ugly term' https://t.co/PeV0OtKpSF,90
+90,@BBCWorld,0.0,Wed Apr 18 01:31:32 +0000 2018,0.0,1.0,0.0,Commonwealth Games: A turning point for Indian sport? https://t.co/cRyRl9G2Fz,91
+91,@BBCWorld,0.0,Wed Apr 18 00:44:37 +0000 2018,0.0,1.0,0.0,"Barbara Bush, matriarch of US political dynasty, dies at 92 https://t.co/GH1giNY8sP",92
+92,@BBCWorld,0.0,Tue Apr 17 23:49:23 +0000 2018,0.0,1.0,0.0,Former US First Lady Barbara Bush dies at 92 https://t.co/lvOhTFTe2v,93
+93,@BBCWorld,0.0,Tue Apr 17 23:49:22 +0000 2018,0.0,1.0,0.0,"Braille, strips and tactile signs https://t.co/egZDGQ3y04",94
+94,@BBCWorld,-0.5106,Tue Apr 17 21:55:55 +0000 2018,0.268,0.732,0.0,"RT @BBCNorthAmerica: Trump: 'Without me, Olympics would've been a failure' https://t.co/hvI9Vu5QDp",95
+95,@BBCWorld,0.0,Tue Apr 17 21:10:42 +0000 2018,0.0,1.0,0.0,Stormy Daniels: 'That's between Trump and his family' https://t.co/aKWSRlxing,96
+96,@BBCWorld,0.0,Tue Apr 17 20:51:27 +0000 2018,0.0,1.0,0.0,Watch US tornado rip roof from house https://t.co/tQltrbmZ1V,97
+97,@BBCWorld,0.0,Tue Apr 17 20:34:07 +0000 2018,0.0,1.0,0.0,Stormy Daniels unveils sketch of man who 'threatened' her https://t.co/y7qq4g5acK,98
+98,@BBCWorld,0.34,Tue Apr 17 20:34:07 +0000 2018,0.0,0.806,0.194,Abe commends Trump for agreeing to summit with Kim Jong-un https://t.co/kKFAWAtVdM,99
+99,@BBCWorld,0.0,Tue Apr 17 20:32:52 +0000 2018,0.0,1.0,0.0,RT @BBC_HaveYourSay: When a seven-hour hike turns into a photographic proposal by storytelling artist @LydiaFama to partner and fellow game…,100
+100,@CBSNews,-0.2732,Wed Apr 18 03:54:04 +0000 2018,0.13,0.87,0.0,"Southwest Airlines Flight 1380 victim identified as Jennifer Riordan, mother from New Mexico https://t.co/QmwhUPVjEQ https://t.co/krhtB0fYI2",101
+101,@CBSNews,-0.1531,Wed Apr 18 03:48:04 +0000 2018,0.138,0.862,0.0,Sandy Hook families file lawsuits against Infowars' Alex Jones https://t.co/ctDIuHJ5K1 https://t.co/pK9BKGygHy,102
+102,@CBSNews,-0.743,Wed Apr 18 03:33:03 +0000 2018,0.344,0.656,0.0,Starbucks in L.A. accused of racism after bathroom incident caught on video https://t.co/D7r8oThUO1 https://t.co/Vg9YBBdB4W,103
+103,@CBSNews,0.0,Wed Apr 18 03:24:04 +0000 2018,0.0,1.0,0.0,"James Comey appears on ""The Late Show with Stephen Colbert"" https://t.co/axwx0Zp1lf https://t.co/HHohM6H2Zr",104
+104,@CBSNews,0.2732,Wed Apr 18 03:18:03 +0000 2018,0.0,0.87,0.13,"Meghan McCain says her father, John McCain, is ""doing well"" and is ""stable"" https://t.co/9sCpiMSRbD https://t.co/gouVtej7kv",105
+105,@CBSNews,-0.3415,Wed Apr 18 03:05:02 +0000 2018,0.158,0.746,0.096,"WATCH: Former FBI Director James @Comey tells @ColbertLateShow he was ""quite surprised"" he was fired by President T… https://t.co/I4KQxs5B7X",106
+106,@CBSNews,-0.5859,Wed Apr 18 03:03:05 +0000 2018,0.286,0.714,0.0,White woman charged after arguing with black service members over parking spot https://t.co/BjBT72JTmt https://t.co/LKjGinf50C,107
+107,@CBSNews,0.0,Wed Apr 18 03:02:04 +0000 2018,0.0,1.0,0.0,"Lindsey Graham ""unnerved"" after Syria briefing: ""Everything in that briefing made me more worried""… https://t.co/cJCatJX4kV",108
+108,@CBSNews,-0.0772,Wed Apr 18 02:40:01 +0000 2018,0.156,0.704,0.141,"New technology is making it easier to manipulate video, raising concerns over fake news. https://t.co/OYs0WUmNUC https://t.co/X7ttznxgyf",109
+109,@CBSNews,0.0,Wed Apr 18 02:25:01 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo met directly with North Korean leader Kim Jong Un, The Washington Post reported Tuesday.… https://t.co/hA7xkJkZrm",110
+110,@CBSNews,-0.8934,Wed Apr 18 02:05:01 +0000 2018,0.416,0.584,0.0,"Michael Phelps opens up about his battle with depression, reveals he thought about killing himself after Olympics… https://t.co/Dpai6hlWrW",111
+111,@CBSNews,0.0,Wed Apr 18 01:53:01 +0000 2018,0.0,1.0,0.0,"President Trump, former occupants of the White House and other political leaders remembered former first lady Barba… https://t.co/NyXRNFprxo",112
+112,@CBSNews,0.296,Wed Apr 18 01:43:00 +0000 2018,0.0,0.896,0.104,RT @CBSThisMorning: TOMORROW: @Starbucks Executive Chairman Howard Schultz will join us live for his first broadcast interview since the ra…,113
+113,@CBSNews,0.0,Wed Apr 18 01:37:25 +0000 2018,0.0,1.0,0.0,"""The body of the former first lady will lie in repose at St. Martin's Episcopal Church here in Houston,""… https://t.co/K8aoWOv6tF",114
+114,@CBSNews,0.6908,Wed Apr 18 01:26:22 +0000 2018,0.0,0.688,0.312,"""Fiercely loyal, strong and witty and funny. I think the grandmother thing may have served her well, but I'm not su… https://t.co/zesvPk3VIL",115
+115,@CBSNews,0.128,Wed Apr 18 01:21:08 +0000 2018,0.149,0.679,0.172,"@CBSNews ""That 2016 campaign was the last of 16 failed and successful congressional gubernatorial and presidential… https://t.co/XzgOVy8b4h",116
+116,@CBSNews,0.836,Wed Apr 18 01:16:25 +0000 2018,0.0,0.717,0.283,"""Barbara Bush was a wonderful lady who brought love and literacy to millions. To us, she was so much more. Mom kept… https://t.co/iyBOgQBLkg",117
+117,@CBSNews,0.0,Wed Apr 18 01:11:05 +0000 2018,0.0,1.0,0.0,"""Some of the largest crowds that [Jeb Bush] had over the course of his presidential bid were on the days when his m… https://t.co/cCUIAdwleY",118
+118,@CBSNews,0.4588,Wed Apr 18 00:55:27 +0000 2018,0.0,0.864,0.136,"Barack Obama and Michelle Obama say ""Barbara Bush was the rock of a family dedicated to public service,"" express co… https://t.co/jchLYMvdDX",119
+119,@CBSNews,-0.5994,Wed Apr 18 00:32:28 +0000 2018,0.163,0.837,0.0,"President Trump and first lady Melania Trump send statement on death of Barbara Bush, say she will be remembered fo… https://t.co/jrzajV5Qr8",120
+120,@CBSNews,-0.2732,Wed Apr 18 03:54:04 +0000 2018,0.13,0.87,0.0,"Southwest Airlines Flight 1380 victim identified as Jennifer Riordan, mother from New Mexico https://t.co/QmwhUPVjEQ https://t.co/krhtB0fYI2",121
+121,@CBSNews,-0.1531,Wed Apr 18 03:48:04 +0000 2018,0.138,0.862,0.0,Sandy Hook families file lawsuits against Infowars' Alex Jones https://t.co/ctDIuHJ5K1 https://t.co/pK9BKGygHy,122
+122,@CBSNews,-0.743,Wed Apr 18 03:33:03 +0000 2018,0.344,0.656,0.0,Starbucks in L.A. accused of racism after bathroom incident caught on video https://t.co/D7r8oThUO1 https://t.co/Vg9YBBdB4W,123
+123,@CBSNews,0.0,Wed Apr 18 03:24:04 +0000 2018,0.0,1.0,0.0,"James Comey appears on ""The Late Show with Stephen Colbert"" https://t.co/axwx0Zp1lf https://t.co/HHohM6H2Zr",124
+124,@CBSNews,0.2732,Wed Apr 18 03:18:03 +0000 2018,0.0,0.87,0.13,"Meghan McCain says her father, John McCain, is ""doing well"" and is ""stable"" https://t.co/9sCpiMSRbD https://t.co/gouVtej7kv",125
+125,@CBSNews,-0.3415,Wed Apr 18 03:05:02 +0000 2018,0.158,0.746,0.096,"WATCH: Former FBI Director James @Comey tells @ColbertLateShow he was ""quite surprised"" he was fired by President T… https://t.co/I4KQxs5B7X",126
+126,@CBSNews,-0.5859,Wed Apr 18 03:03:05 +0000 2018,0.286,0.714,0.0,White woman charged after arguing with black service members over parking spot https://t.co/BjBT72JTmt https://t.co/LKjGinf50C,127
+127,@CBSNews,0.0,Wed Apr 18 03:02:04 +0000 2018,0.0,1.0,0.0,"Lindsey Graham ""unnerved"" after Syria briefing: ""Everything in that briefing made me more worried""… https://t.co/cJCatJX4kV",128
+128,@CBSNews,-0.0772,Wed Apr 18 02:40:01 +0000 2018,0.156,0.704,0.141,"New technology is making it easier to manipulate video, raising concerns over fake news. https://t.co/OYs0WUmNUC https://t.co/X7ttznxgyf",129
+129,@CBSNews,0.0,Wed Apr 18 02:25:01 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo met directly with North Korean leader Kim Jong Un, The Washington Post reported Tuesday.… https://t.co/hA7xkJkZrm",130
+130,@CBSNews,-0.8934,Wed Apr 18 02:05:01 +0000 2018,0.416,0.584,0.0,"Michael Phelps opens up about his battle with depression, reveals he thought about killing himself after Olympics… https://t.co/Dpai6hlWrW",131
+131,@CBSNews,0.0,Wed Apr 18 01:53:01 +0000 2018,0.0,1.0,0.0,"President Trump, former occupants of the White House and other political leaders remembered former first lady Barba… https://t.co/NyXRNFprxo",132
+132,@CBSNews,0.296,Wed Apr 18 01:43:00 +0000 2018,0.0,0.896,0.104,RT @CBSThisMorning: TOMORROW: @Starbucks Executive Chairman Howard Schultz will join us live for his first broadcast interview since the ra…,133
+133,@CBSNews,0.0,Wed Apr 18 01:37:25 +0000 2018,0.0,1.0,0.0,"""The body of the former first lady will lie in repose at St. Martin's Episcopal Church here in Houston,""… https://t.co/K8aoWOv6tF",134
+134,@CBSNews,0.6908,Wed Apr 18 01:26:22 +0000 2018,0.0,0.688,0.312,"""Fiercely loyal, strong and witty and funny. I think the grandmother thing may have served her well, but I'm not su… https://t.co/zesvPk3VIL",135
+135,@CBSNews,0.128,Wed Apr 18 01:21:08 +0000 2018,0.149,0.679,0.172,"@CBSNews ""That 2016 campaign was the last of 16 failed and successful congressional gubernatorial and presidential… https://t.co/XzgOVy8b4h",136
+136,@CBSNews,0.836,Wed Apr 18 01:16:25 +0000 2018,0.0,0.717,0.283,"""Barbara Bush was a wonderful lady who brought love and literacy to millions. To us, she was so much more. Mom kept… https://t.co/iyBOgQBLkg",137
+137,@CBSNews,0.0,Wed Apr 18 01:11:05 +0000 2018,0.0,1.0,0.0,"""Some of the largest crowds that [Jeb Bush] had over the course of his presidential bid were on the days when his m… https://t.co/cCUIAdwleY",138
+138,@CBSNews,0.4588,Wed Apr 18 00:55:27 +0000 2018,0.0,0.864,0.136,"Barack Obama and Michelle Obama say ""Barbara Bush was the rock of a family dedicated to public service,"" express co… https://t.co/jchLYMvdDX",139
+139,@CBSNews,-0.5994,Wed Apr 18 00:32:28 +0000 2018,0.163,0.837,0.0,"President Trump and first lady Melania Trump send statement on death of Barbara Bush, say she will be remembered fo… https://t.co/jrzajV5Qr8",140
+140,@CBSNews,-0.2732,Wed Apr 18 03:54:04 +0000 2018,0.13,0.87,0.0,"Southwest Airlines Flight 1380 victim identified as Jennifer Riordan, mother from New Mexico https://t.co/QmwhUPVjEQ https://t.co/krhtB0fYI2",141
+141,@CBSNews,-0.1531,Wed Apr 18 03:48:04 +0000 2018,0.138,0.862,0.0,Sandy Hook families file lawsuits against Infowars' Alex Jones https://t.co/ctDIuHJ5K1 https://t.co/pK9BKGygHy,142
+142,@CBSNews,-0.743,Wed Apr 18 03:33:03 +0000 2018,0.344,0.656,0.0,Starbucks in L.A. accused of racism after bathroom incident caught on video https://t.co/D7r8oThUO1 https://t.co/Vg9YBBdB4W,143
+143,@CBSNews,0.0,Wed Apr 18 03:24:04 +0000 2018,0.0,1.0,0.0,"James Comey appears on ""The Late Show with Stephen Colbert"" https://t.co/axwx0Zp1lf https://t.co/HHohM6H2Zr",144
+144,@CBSNews,0.2732,Wed Apr 18 03:18:03 +0000 2018,0.0,0.87,0.13,"Meghan McCain says her father, John McCain, is ""doing well"" and is ""stable"" https://t.co/9sCpiMSRbD https://t.co/gouVtej7kv",145
+145,@CBSNews,-0.3415,Wed Apr 18 03:05:02 +0000 2018,0.158,0.746,0.096,"WATCH: Former FBI Director James @Comey tells @ColbertLateShow he was ""quite surprised"" he was fired by President T… https://t.co/I4KQxs5B7X",146
+146,@CBSNews,-0.5859,Wed Apr 18 03:03:05 +0000 2018,0.286,0.714,0.0,White woman charged after arguing with black service members over parking spot https://t.co/BjBT72JTmt https://t.co/LKjGinf50C,147
+147,@CBSNews,0.0,Wed Apr 18 03:02:04 +0000 2018,0.0,1.0,0.0,"Lindsey Graham ""unnerved"" after Syria briefing: ""Everything in that briefing made me more worried""… https://t.co/cJCatJX4kV",148
+148,@CBSNews,-0.0772,Wed Apr 18 02:40:01 +0000 2018,0.156,0.704,0.141,"New technology is making it easier to manipulate video, raising concerns over fake news. https://t.co/OYs0WUmNUC https://t.co/X7ttznxgyf",149
+149,@CBSNews,0.0,Wed Apr 18 02:25:01 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo met directly with North Korean leader Kim Jong Un, The Washington Post reported Tuesday.… https://t.co/hA7xkJkZrm",150
+150,@CBSNews,-0.8934,Wed Apr 18 02:05:01 +0000 2018,0.416,0.584,0.0,"Michael Phelps opens up about his battle with depression, reveals he thought about killing himself after Olympics… https://t.co/Dpai6hlWrW",151
+151,@CBSNews,0.0,Wed Apr 18 01:53:01 +0000 2018,0.0,1.0,0.0,"President Trump, former occupants of the White House and other political leaders remembered former first lady Barba… https://t.co/NyXRNFprxo",152
+152,@CBSNews,0.296,Wed Apr 18 01:43:00 +0000 2018,0.0,0.896,0.104,RT @CBSThisMorning: TOMORROW: @Starbucks Executive Chairman Howard Schultz will join us live for his first broadcast interview since the ra…,153
+153,@CBSNews,0.0,Wed Apr 18 01:37:25 +0000 2018,0.0,1.0,0.0,"""The body of the former first lady will lie in repose at St. Martin's Episcopal Church here in Houston,""… https://t.co/K8aoWOv6tF",154
+154,@CBSNews,0.6908,Wed Apr 18 01:26:22 +0000 2018,0.0,0.688,0.312,"""Fiercely loyal, strong and witty and funny. I think the grandmother thing may have served her well, but I'm not su… https://t.co/zesvPk3VIL",155
+155,@CBSNews,0.128,Wed Apr 18 01:21:08 +0000 2018,0.149,0.679,0.172,"@CBSNews ""That 2016 campaign was the last of 16 failed and successful congressional gubernatorial and presidential… https://t.co/XzgOVy8b4h",156
+156,@CBSNews,0.836,Wed Apr 18 01:16:25 +0000 2018,0.0,0.717,0.283,"""Barbara Bush was a wonderful lady who brought love and literacy to millions. To us, she was so much more. Mom kept… https://t.co/iyBOgQBLkg",157
+157,@CBSNews,0.0,Wed Apr 18 01:11:05 +0000 2018,0.0,1.0,0.0,"""Some of the largest crowds that [Jeb Bush] had over the course of his presidential bid were on the days when his m… https://t.co/cCUIAdwleY",158
+158,@CBSNews,0.4588,Wed Apr 18 00:55:27 +0000 2018,0.0,0.864,0.136,"Barack Obama and Michelle Obama say ""Barbara Bush was the rock of a family dedicated to public service,"" express co… https://t.co/jchLYMvdDX",159
+159,@CBSNews,-0.5994,Wed Apr 18 00:32:28 +0000 2018,0.163,0.837,0.0,"President Trump and first lady Melania Trump send statement on death of Barbara Bush, say she will be remembered fo… https://t.co/jrzajV5Qr8",160
+160,@CBSNews,-0.2732,Wed Apr 18 03:54:04 +0000 2018,0.13,0.87,0.0,"Southwest Airlines Flight 1380 victim identified as Jennifer Riordan, mother from New Mexico https://t.co/QmwhUPVjEQ https://t.co/krhtB0fYI2",161
+161,@CBSNews,-0.1531,Wed Apr 18 03:48:04 +0000 2018,0.138,0.862,0.0,Sandy Hook families file lawsuits against Infowars' Alex Jones https://t.co/ctDIuHJ5K1 https://t.co/pK9BKGygHy,162
+162,@CBSNews,-0.743,Wed Apr 18 03:33:03 +0000 2018,0.344,0.656,0.0,Starbucks in L.A. accused of racism after bathroom incident caught on video https://t.co/D7r8oThUO1 https://t.co/Vg9YBBdB4W,163
+163,@CBSNews,0.0,Wed Apr 18 03:24:04 +0000 2018,0.0,1.0,0.0,"James Comey appears on ""The Late Show with Stephen Colbert"" https://t.co/axwx0Zp1lf https://t.co/HHohM6H2Zr",164
+164,@CBSNews,0.2732,Wed Apr 18 03:18:03 +0000 2018,0.0,0.87,0.13,"Meghan McCain says her father, John McCain, is ""doing well"" and is ""stable"" https://t.co/9sCpiMSRbD https://t.co/gouVtej7kv",165
+165,@CBSNews,-0.3415,Wed Apr 18 03:05:02 +0000 2018,0.158,0.746,0.096,"WATCH: Former FBI Director James @Comey tells @ColbertLateShow he was ""quite surprised"" he was fired by President T… https://t.co/I4KQxs5B7X",166
+166,@CBSNews,-0.5859,Wed Apr 18 03:03:05 +0000 2018,0.286,0.714,0.0,White woman charged after arguing with black service members over parking spot https://t.co/BjBT72JTmt https://t.co/LKjGinf50C,167
+167,@CBSNews,0.0,Wed Apr 18 03:02:04 +0000 2018,0.0,1.0,0.0,"Lindsey Graham ""unnerved"" after Syria briefing: ""Everything in that briefing made me more worried""… https://t.co/cJCatJX4kV",168
+168,@CBSNews,-0.0772,Wed Apr 18 02:40:01 +0000 2018,0.156,0.704,0.141,"New technology is making it easier to manipulate video, raising concerns over fake news. https://t.co/OYs0WUmNUC https://t.co/X7ttznxgyf",169
+169,@CBSNews,0.0,Wed Apr 18 02:25:01 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo met directly with North Korean leader Kim Jong Un, The Washington Post reported Tuesday.… https://t.co/hA7xkJkZrm",170
+170,@CBSNews,-0.8934,Wed Apr 18 02:05:01 +0000 2018,0.416,0.584,0.0,"Michael Phelps opens up about his battle with depression, reveals he thought about killing himself after Olympics… https://t.co/Dpai6hlWrW",171
+171,@CBSNews,0.0,Wed Apr 18 01:53:01 +0000 2018,0.0,1.0,0.0,"President Trump, former occupants of the White House and other political leaders remembered former first lady Barba… https://t.co/NyXRNFprxo",172
+172,@CBSNews,0.296,Wed Apr 18 01:43:00 +0000 2018,0.0,0.896,0.104,RT @CBSThisMorning: TOMORROW: @Starbucks Executive Chairman Howard Schultz will join us live for his first broadcast interview since the ra…,173
+173,@CBSNews,0.0,Wed Apr 18 01:37:25 +0000 2018,0.0,1.0,0.0,"""The body of the former first lady will lie in repose at St. Martin's Episcopal Church here in Houston,""… https://t.co/K8aoWOv6tF",174
+174,@CBSNews,0.6908,Wed Apr 18 01:26:22 +0000 2018,0.0,0.688,0.312,"""Fiercely loyal, strong and witty and funny. I think the grandmother thing may have served her well, but I'm not su… https://t.co/zesvPk3VIL",175
+175,@CBSNews,0.128,Wed Apr 18 01:21:08 +0000 2018,0.149,0.679,0.172,"@CBSNews ""That 2016 campaign was the last of 16 failed and successful congressional gubernatorial and presidential… https://t.co/XzgOVy8b4h",176
+176,@CBSNews,0.836,Wed Apr 18 01:16:25 +0000 2018,0.0,0.717,0.283,"""Barbara Bush was a wonderful lady who brought love and literacy to millions. To us, she was so much more. Mom kept… https://t.co/iyBOgQBLkg",177
+177,@CBSNews,0.0,Wed Apr 18 01:11:05 +0000 2018,0.0,1.0,0.0,"""Some of the largest crowds that [Jeb Bush] had over the course of his presidential bid were on the days when his m… https://t.co/cCUIAdwleY",178
+178,@CBSNews,0.4588,Wed Apr 18 00:55:27 +0000 2018,0.0,0.864,0.136,"Barack Obama and Michelle Obama say ""Barbara Bush was the rock of a family dedicated to public service,"" express co… https://t.co/jchLYMvdDX",179
+179,@CBSNews,-0.5994,Wed Apr 18 00:32:28 +0000 2018,0.163,0.837,0.0,"President Trump and first lady Melania Trump send statement on death of Barbara Bush, say she will be remembered fo… https://t.co/jrzajV5Qr8",180
+180,@CBSNews,-0.2732,Wed Apr 18 03:54:04 +0000 2018,0.13,0.87,0.0,"Southwest Airlines Flight 1380 victim identified as Jennifer Riordan, mother from New Mexico https://t.co/QmwhUPVjEQ https://t.co/krhtB0fYI2",181
+181,@CBSNews,-0.1531,Wed Apr 18 03:48:04 +0000 2018,0.138,0.862,0.0,Sandy Hook families file lawsuits against Infowars' Alex Jones https://t.co/ctDIuHJ5K1 https://t.co/pK9BKGygHy,182
+182,@CBSNews,-0.743,Wed Apr 18 03:33:03 +0000 2018,0.344,0.656,0.0,Starbucks in L.A. accused of racism after bathroom incident caught on video https://t.co/D7r8oThUO1 https://t.co/Vg9YBBdB4W,183
+183,@CBSNews,0.0,Wed Apr 18 03:24:04 +0000 2018,0.0,1.0,0.0,"James Comey appears on ""The Late Show with Stephen Colbert"" https://t.co/axwx0Zp1lf https://t.co/HHohM6H2Zr",184
+184,@CBSNews,0.2732,Wed Apr 18 03:18:03 +0000 2018,0.0,0.87,0.13,"Meghan McCain says her father, John McCain, is ""doing well"" and is ""stable"" https://t.co/9sCpiMSRbD https://t.co/gouVtej7kv",185
+185,@CBSNews,-0.3415,Wed Apr 18 03:05:02 +0000 2018,0.158,0.746,0.096,"WATCH: Former FBI Director James @Comey tells @ColbertLateShow he was ""quite surprised"" he was fired by President T… https://t.co/I4KQxs5B7X",186
+186,@CBSNews,-0.5859,Wed Apr 18 03:03:05 +0000 2018,0.286,0.714,0.0,White woman charged after arguing with black service members over parking spot https://t.co/BjBT72JTmt https://t.co/LKjGinf50C,187
+187,@CBSNews,0.0,Wed Apr 18 03:02:04 +0000 2018,0.0,1.0,0.0,"Lindsey Graham ""unnerved"" after Syria briefing: ""Everything in that briefing made me more worried""… https://t.co/cJCatJX4kV",188
+188,@CBSNews,-0.0772,Wed Apr 18 02:40:01 +0000 2018,0.156,0.704,0.141,"New technology is making it easier to manipulate video, raising concerns over fake news. https://t.co/OYs0WUmNUC https://t.co/X7ttznxgyf",189
+189,@CBSNews,0.0,Wed Apr 18 02:25:01 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo met directly with North Korean leader Kim Jong Un, The Washington Post reported Tuesday.… https://t.co/hA7xkJkZrm",190
+190,@CBSNews,-0.8934,Wed Apr 18 02:05:01 +0000 2018,0.416,0.584,0.0,"Michael Phelps opens up about his battle with depression, reveals he thought about killing himself after Olympics… https://t.co/Dpai6hlWrW",191
+191,@CBSNews,0.0,Wed Apr 18 01:53:01 +0000 2018,0.0,1.0,0.0,"President Trump, former occupants of the White House and other political leaders remembered former first lady Barba… https://t.co/NyXRNFprxo",192
+192,@CBSNews,0.296,Wed Apr 18 01:43:00 +0000 2018,0.0,0.896,0.104,RT @CBSThisMorning: TOMORROW: @Starbucks Executive Chairman Howard Schultz will join us live for his first broadcast interview since the ra…,193
+193,@CBSNews,0.0,Wed Apr 18 01:37:25 +0000 2018,0.0,1.0,0.0,"""The body of the former first lady will lie in repose at St. Martin's Episcopal Church here in Houston,""… https://t.co/K8aoWOv6tF",194
+194,@CBSNews,0.6908,Wed Apr 18 01:26:22 +0000 2018,0.0,0.688,0.312,"""Fiercely loyal, strong and witty and funny. I think the grandmother thing may have served her well, but I'm not su… https://t.co/zesvPk3VIL",195
+195,@CBSNews,0.128,Wed Apr 18 01:21:08 +0000 2018,0.149,0.679,0.172,"@CBSNews ""That 2016 campaign was the last of 16 failed and successful congressional gubernatorial and presidential… https://t.co/XzgOVy8b4h",196
+196,@CBSNews,0.836,Wed Apr 18 01:16:25 +0000 2018,0.0,0.717,0.283,"""Barbara Bush was a wonderful lady who brought love and literacy to millions. To us, she was so much more. Mom kept… https://t.co/iyBOgQBLkg",197
+197,@CBSNews,0.0,Wed Apr 18 01:11:05 +0000 2018,0.0,1.0,0.0,"""Some of the largest crowds that [Jeb Bush] had over the course of his presidential bid were on the days when his m… https://t.co/cCUIAdwleY",198
+198,@CBSNews,0.4588,Wed Apr 18 00:55:27 +0000 2018,0.0,0.864,0.136,"Barack Obama and Michelle Obama say ""Barbara Bush was the rock of a family dedicated to public service,"" express co… https://t.co/jchLYMvdDX",199
+199,@CBSNews,-0.5994,Wed Apr 18 00:32:28 +0000 2018,0.163,0.837,0.0,"President Trump and first lady Melania Trump send statement on death of Barbara Bush, say she will be remembered fo… https://t.co/jrzajV5Qr8",200
+200,@CNN,0.0,Wed Apr 18 03:47:26 +0000 2018,0.0,1.0,0.0,"RT @CNNTonight: Speaking with @DonLemon, Starbucks CEO Kevin Johnson said his heart sank when he saw the video of two black men being arres…",201
+201,@CNN,0.0,Wed Apr 18 03:46:04 +0000 2018,0.0,1.0,0.0,10 things to remember about Donald Trump's taxes | Analysis by @CillizzaCNN https://t.co/K1Z57dYkPS https://t.co/OiKAnYh7Pb,202
+202,@CNN,0.0,Wed Apr 18 03:31:05 +0000 2018,0.0,1.0,0.0,How Asia's airports are changing the way we travel https://t.co/Qh1ygml6eL via @CNNTravel https://t.co/ZgcXJHq3bj,203
+203,@CNN,-0.4404,Wed Apr 18 03:20:28 +0000 2018,0.132,0.868,0.0,"RT @cnnbrk: A piece from the damaged Southwest jet was found 70 miles outside of Philadelphia, NTSB official says https://t.co/sV6MWpj1bN h…",204
+204,@CNN,0.4215,Wed Apr 18 03:16:38 +0000 2018,0.0,0.882,0.118,"First lady of the United States, mother to a US president and ""The Enforcer"" are just a few of the titles Barbara B… https://t.co/RX0FBhzGOl",205
+205,@CNN,0.0,Wed Apr 18 03:08:04 +0000 2018,0.0,1.0,0.0,"""They didn't deserve that."" Starbucks CEO Kevin Johnson says his heart sank when he saw the video of two black men… https://t.co/EUuP7pfkEi",206
+206,@CNN,0.6467,Wed Apr 18 03:01:05 +0000 2018,0.0,0.778,0.222,Happy Tax Day! Donald Trump still has never released his tax returns! | Analysis by @CillizzaCNN… https://t.co/7okIkYbBuB,207
+207,@CNN,0.128,Wed Apr 18 02:46:07 +0000 2018,0.0,0.903,0.097,President Donald Trump quashed Defense Secretary James Mattis' suggestion to obtain congressional authorization ahe… https://t.co/X4lpnq9nkd,208
+208,@CNN,0.0,Wed Apr 18 02:38:19 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo traveled to North Korea over Easter weekend for a meeting with leader Kim Jong Un, sources… https://t.co/EaeKj9vlRq",209
+209,@CNN,-0.5688,Wed Apr 18 02:31:07 +0000 2018,0.206,0.794,0.0,"During a 1994 interview, former first lady Barbara Bush talked about what she missed the most about no longer being… https://t.co/c3INyONRGs",210
+210,@CNN,0.0,Wed Apr 18 02:18:07 +0000 2018,0.0,1.0,0.0,A startup called Rocket Lab just got a leg up on the race to launch tiny satellites https://t.co/8xKfezgckV https://t.co/2PyolQqloF,211
+211,@CNN,-0.5106,Wed Apr 18 02:13:18 +0000 2018,0.202,0.798,0.0,"Toys ""R"" Us rejected a $675 million bid from Bratz CEO Isaac Larian https://t.co/V21fbRSDOY https://t.co/o08rpg2YZ1",212
+212,@CNN,-0.7351,Wed Apr 18 02:09:47 +0000 2018,0.22,0.78,0.0,"RT @AC360: James Clapper on the death of former First Lady Barbara Bush: ""This is a loss of an iconic figure in this country"" https://t.co/…",213
+213,@CNN,0.0,Wed Apr 18 01:57:15 +0000 2018,0.0,1.0,0.0,Former FBI Director James Comey sat down with Stephen Colbert on Tuesday for a wide-ranging interview that touched… https://t.co/5pLzK6FpKg,214
+214,@CNN,0.0,Wed Apr 18 01:53:15 +0000 2018,0.0,1.0,0.0,"""Somewhere out in this audience may even be someone who will one day follow my footsteps and preside over the White… https://t.co/MyfwQeFxZS",215
+215,@CNN,-0.4404,Wed Apr 18 01:46:25 +0000 2018,0.127,0.873,0.0,"RT @CNNTonight: Starbucks CEO Kevin Johnson to @DonLemon on arrests at Philadelphia store: ""They didn't deserve that""
+
+Watch the full inter…",216
+216,@CNN,0.8271,Wed Apr 18 01:27:24 +0000 2018,0.0,0.712,0.288,"RT @AC360: Former First Lady Barbara Bush was a powerhouse who personified love, levity and loyalty, says former Sen. Alan Simpson https://…",217
+217,@CNN,0.0,Wed Apr 18 01:26:29 +0000 2018,0.0,1.0,0.0,"""Barbara Bush redefined the role of first lady, not with her signature issue (which was literacy), but with the war… https://t.co/2qCJ6HxjVf",218
+218,@CNN,0.7184,Wed Apr 18 01:09:30 +0000 2018,0.0,0.793,0.207,"""Mom kept us on our toes and kept us laughing until the end. I'm a lucky man that Barbara Bush was my mother. Our f… https://t.co/ZLZhaPYzEk",219
+219,@CNN,0.743,Wed Apr 18 00:59:16 +0000 2018,0.0,0.741,0.259,"Barbara Bush will be remembered for ""strong devotion to country and family, both of which she served unfailingly we… https://t.co/BTiEioF2B4",220
+220,@CNN,0.0,Wed Apr 18 03:47:26 +0000 2018,0.0,1.0,0.0,"RT @CNNTonight: Speaking with @DonLemon, Starbucks CEO Kevin Johnson said his heart sank when he saw the video of two black men being arres…",221
+221,@CNN,0.0,Wed Apr 18 03:46:04 +0000 2018,0.0,1.0,0.0,10 things to remember about Donald Trump's taxes | Analysis by @CillizzaCNN https://t.co/K1Z57dYkPS https://t.co/OiKAnYh7Pb,222
+222,@CNN,0.0,Wed Apr 18 03:31:05 +0000 2018,0.0,1.0,0.0,How Asia's airports are changing the way we travel https://t.co/Qh1ygml6eL via @CNNTravel https://t.co/ZgcXJHq3bj,223
+223,@CNN,-0.4404,Wed Apr 18 03:20:28 +0000 2018,0.132,0.868,0.0,"RT @cnnbrk: A piece from the damaged Southwest jet was found 70 miles outside of Philadelphia, NTSB official says https://t.co/sV6MWpj1bN h…",224
+224,@CNN,0.4215,Wed Apr 18 03:16:38 +0000 2018,0.0,0.882,0.118,"First lady of the United States, mother to a US president and ""The Enforcer"" are just a few of the titles Barbara B… https://t.co/RX0FBhzGOl",225
+225,@CNN,0.0,Wed Apr 18 03:08:04 +0000 2018,0.0,1.0,0.0,"""They didn't deserve that."" Starbucks CEO Kevin Johnson says his heart sank when he saw the video of two black men… https://t.co/EUuP7pfkEi",226
+226,@CNN,0.6467,Wed Apr 18 03:01:05 +0000 2018,0.0,0.778,0.222,Happy Tax Day! Donald Trump still has never released his tax returns! | Analysis by @CillizzaCNN… https://t.co/7okIkYbBuB,227
+227,@CNN,0.128,Wed Apr 18 02:46:07 +0000 2018,0.0,0.903,0.097,President Donald Trump quashed Defense Secretary James Mattis' suggestion to obtain congressional authorization ahe… https://t.co/X4lpnq9nkd,228
+228,@CNN,0.0,Wed Apr 18 02:38:19 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo traveled to North Korea over Easter weekend for a meeting with leader Kim Jong Un, sources… https://t.co/EaeKj9vlRq",229
+229,@CNN,-0.5688,Wed Apr 18 02:31:07 +0000 2018,0.206,0.794,0.0,"During a 1994 interview, former first lady Barbara Bush talked about what she missed the most about no longer being… https://t.co/c3INyONRGs",230
+230,@CNN,0.0,Wed Apr 18 02:18:07 +0000 2018,0.0,1.0,0.0,A startup called Rocket Lab just got a leg up on the race to launch tiny satellites https://t.co/8xKfezgckV https://t.co/2PyolQqloF,231
+231,@CNN,-0.5106,Wed Apr 18 02:13:18 +0000 2018,0.202,0.798,0.0,"Toys ""R"" Us rejected a $675 million bid from Bratz CEO Isaac Larian https://t.co/V21fbRSDOY https://t.co/o08rpg2YZ1",232
+232,@CNN,-0.7351,Wed Apr 18 02:09:47 +0000 2018,0.22,0.78,0.0,"RT @AC360: James Clapper on the death of former First Lady Barbara Bush: ""This is a loss of an iconic figure in this country"" https://t.co/…",233
+233,@CNN,0.0,Wed Apr 18 01:57:15 +0000 2018,0.0,1.0,0.0,Former FBI Director James Comey sat down with Stephen Colbert on Tuesday for a wide-ranging interview that touched… https://t.co/5pLzK6FpKg,234
+234,@CNN,0.0,Wed Apr 18 01:53:15 +0000 2018,0.0,1.0,0.0,"""Somewhere out in this audience may even be someone who will one day follow my footsteps and preside over the White… https://t.co/MyfwQeFxZS",235
+235,@CNN,-0.4404,Wed Apr 18 01:46:25 +0000 2018,0.127,0.873,0.0,"RT @CNNTonight: Starbucks CEO Kevin Johnson to @DonLemon on arrests at Philadelphia store: ""They didn't deserve that""
+
+Watch the full inter…",236
+236,@CNN,0.8271,Wed Apr 18 01:27:24 +0000 2018,0.0,0.712,0.288,"RT @AC360: Former First Lady Barbara Bush was a powerhouse who personified love, levity and loyalty, says former Sen. Alan Simpson https://…",237
+237,@CNN,0.0,Wed Apr 18 01:26:29 +0000 2018,0.0,1.0,0.0,"""Barbara Bush redefined the role of first lady, not with her signature issue (which was literacy), but with the war… https://t.co/2qCJ6HxjVf",238
+238,@CNN,0.7184,Wed Apr 18 01:09:30 +0000 2018,0.0,0.793,0.207,"""Mom kept us on our toes and kept us laughing until the end. I'm a lucky man that Barbara Bush was my mother. Our f… https://t.co/ZLZhaPYzEk",239
+239,@CNN,0.743,Wed Apr 18 00:59:16 +0000 2018,0.0,0.741,0.259,"Barbara Bush will be remembered for ""strong devotion to country and family, both of which she served unfailingly we… https://t.co/BTiEioF2B4",240
+240,@CNN,0.0,Wed Apr 18 03:47:26 +0000 2018,0.0,1.0,0.0,"RT @CNNTonight: Speaking with @DonLemon, Starbucks CEO Kevin Johnson said his heart sank when he saw the video of two black men being arres…",241
+241,@CNN,0.0,Wed Apr 18 03:46:04 +0000 2018,0.0,1.0,0.0,10 things to remember about Donald Trump's taxes | Analysis by @CillizzaCNN https://t.co/K1Z57dYkPS https://t.co/OiKAnYh7Pb,242
+242,@CNN,0.0,Wed Apr 18 03:31:05 +0000 2018,0.0,1.0,0.0,How Asia's airports are changing the way we travel https://t.co/Qh1ygml6eL via @CNNTravel https://t.co/ZgcXJHq3bj,243
+243,@CNN,-0.4404,Wed Apr 18 03:20:28 +0000 2018,0.132,0.868,0.0,"RT @cnnbrk: A piece from the damaged Southwest jet was found 70 miles outside of Philadelphia, NTSB official says https://t.co/sV6MWpj1bN h…",244
+244,@CNN,0.4215,Wed Apr 18 03:16:38 +0000 2018,0.0,0.882,0.118,"First lady of the United States, mother to a US president and ""The Enforcer"" are just a few of the titles Barbara B… https://t.co/RX0FBhzGOl",245
+245,@CNN,0.0,Wed Apr 18 03:08:04 +0000 2018,0.0,1.0,0.0,"""They didn't deserve that."" Starbucks CEO Kevin Johnson says his heart sank when he saw the video of two black men… https://t.co/EUuP7pfkEi",246
+246,@CNN,0.6467,Wed Apr 18 03:01:05 +0000 2018,0.0,0.778,0.222,Happy Tax Day! Donald Trump still has never released his tax returns! | Analysis by @CillizzaCNN… https://t.co/7okIkYbBuB,247
+247,@CNN,0.128,Wed Apr 18 02:46:07 +0000 2018,0.0,0.903,0.097,President Donald Trump quashed Defense Secretary James Mattis' suggestion to obtain congressional authorization ahe… https://t.co/X4lpnq9nkd,248
+248,@CNN,0.0,Wed Apr 18 02:38:19 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo traveled to North Korea over Easter weekend for a meeting with leader Kim Jong Un, sources… https://t.co/EaeKj9vlRq",249
+249,@CNN,-0.5688,Wed Apr 18 02:31:07 +0000 2018,0.206,0.794,0.0,"During a 1994 interview, former first lady Barbara Bush talked about what she missed the most about no longer being… https://t.co/c3INyONRGs",250
+250,@CNN,0.0,Wed Apr 18 02:18:07 +0000 2018,0.0,1.0,0.0,A startup called Rocket Lab just got a leg up on the race to launch tiny satellites https://t.co/8xKfezgckV https://t.co/2PyolQqloF,251
+251,@CNN,-0.5106,Wed Apr 18 02:13:18 +0000 2018,0.202,0.798,0.0,"Toys ""R"" Us rejected a $675 million bid from Bratz CEO Isaac Larian https://t.co/V21fbRSDOY https://t.co/o08rpg2YZ1",252
+252,@CNN,-0.7351,Wed Apr 18 02:09:47 +0000 2018,0.22,0.78,0.0,"RT @AC360: James Clapper on the death of former First Lady Barbara Bush: ""This is a loss of an iconic figure in this country"" https://t.co/…",253
+253,@CNN,0.0,Wed Apr 18 01:57:15 +0000 2018,0.0,1.0,0.0,Former FBI Director James Comey sat down with Stephen Colbert on Tuesday for a wide-ranging interview that touched… https://t.co/5pLzK6FpKg,254
+254,@CNN,0.0,Wed Apr 18 01:53:15 +0000 2018,0.0,1.0,0.0,"""Somewhere out in this audience may even be someone who will one day follow my footsteps and preside over the White… https://t.co/MyfwQeFxZS",255
+255,@CNN,-0.4404,Wed Apr 18 01:46:25 +0000 2018,0.127,0.873,0.0,"RT @CNNTonight: Starbucks CEO Kevin Johnson to @DonLemon on arrests at Philadelphia store: ""They didn't deserve that""
+
+Watch the full inter…",256
+256,@CNN,0.8271,Wed Apr 18 01:27:24 +0000 2018,0.0,0.712,0.288,"RT @AC360: Former First Lady Barbara Bush was a powerhouse who personified love, levity and loyalty, says former Sen. Alan Simpson https://…",257
+257,@CNN,0.0,Wed Apr 18 01:26:29 +0000 2018,0.0,1.0,0.0,"""Barbara Bush redefined the role of first lady, not with her signature issue (which was literacy), but with the war… https://t.co/2qCJ6HxjVf",258
+258,@CNN,0.7184,Wed Apr 18 01:09:30 +0000 2018,0.0,0.793,0.207,"""Mom kept us on our toes and kept us laughing until the end. I'm a lucky man that Barbara Bush was my mother. Our f… https://t.co/ZLZhaPYzEk",259
+259,@CNN,0.743,Wed Apr 18 00:59:16 +0000 2018,0.0,0.741,0.259,"Barbara Bush will be remembered for ""strong devotion to country and family, both of which she served unfailingly we… https://t.co/BTiEioF2B4",260
+260,@CNN,0.0,Wed Apr 18 03:47:26 +0000 2018,0.0,1.0,0.0,"RT @CNNTonight: Speaking with @DonLemon, Starbucks CEO Kevin Johnson said his heart sank when he saw the video of two black men being arres…",261
+261,@CNN,0.0,Wed Apr 18 03:46:04 +0000 2018,0.0,1.0,0.0,10 things to remember about Donald Trump's taxes | Analysis by @CillizzaCNN https://t.co/K1Z57dYkPS https://t.co/OiKAnYh7Pb,262
+262,@CNN,0.0,Wed Apr 18 03:31:05 +0000 2018,0.0,1.0,0.0,How Asia's airports are changing the way we travel https://t.co/Qh1ygml6eL via @CNNTravel https://t.co/ZgcXJHq3bj,263
+263,@CNN,-0.4404,Wed Apr 18 03:20:28 +0000 2018,0.132,0.868,0.0,"RT @cnnbrk: A piece from the damaged Southwest jet was found 70 miles outside of Philadelphia, NTSB official says https://t.co/sV6MWpj1bN h…",264
+264,@CNN,0.4215,Wed Apr 18 03:16:38 +0000 2018,0.0,0.882,0.118,"First lady of the United States, mother to a US president and ""The Enforcer"" are just a few of the titles Barbara B… https://t.co/RX0FBhzGOl",265
+265,@CNN,0.0,Wed Apr 18 03:08:04 +0000 2018,0.0,1.0,0.0,"""They didn't deserve that."" Starbucks CEO Kevin Johnson says his heart sank when he saw the video of two black men… https://t.co/EUuP7pfkEi",266
+266,@CNN,0.6467,Wed Apr 18 03:01:05 +0000 2018,0.0,0.778,0.222,Happy Tax Day! Donald Trump still has never released his tax returns! | Analysis by @CillizzaCNN… https://t.co/7okIkYbBuB,267
+267,@CNN,0.128,Wed Apr 18 02:46:07 +0000 2018,0.0,0.903,0.097,President Donald Trump quashed Defense Secretary James Mattis' suggestion to obtain congressional authorization ahe… https://t.co/X4lpnq9nkd,268
+268,@CNN,0.0,Wed Apr 18 02:38:19 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo traveled to North Korea over Easter weekend for a meeting with leader Kim Jong Un, sources… https://t.co/EaeKj9vlRq",269
+269,@CNN,-0.5688,Wed Apr 18 02:31:07 +0000 2018,0.206,0.794,0.0,"During a 1994 interview, former first lady Barbara Bush talked about what she missed the most about no longer being… https://t.co/c3INyONRGs",270
+270,@CNN,0.0,Wed Apr 18 02:18:07 +0000 2018,0.0,1.0,0.0,A startup called Rocket Lab just got a leg up on the race to launch tiny satellites https://t.co/8xKfezgckV https://t.co/2PyolQqloF,271
+271,@CNN,-0.5106,Wed Apr 18 02:13:18 +0000 2018,0.202,0.798,0.0,"Toys ""R"" Us rejected a $675 million bid from Bratz CEO Isaac Larian https://t.co/V21fbRSDOY https://t.co/o08rpg2YZ1",272
+272,@CNN,-0.7351,Wed Apr 18 02:09:47 +0000 2018,0.22,0.78,0.0,"RT @AC360: James Clapper on the death of former First Lady Barbara Bush: ""This is a loss of an iconic figure in this country"" https://t.co/…",273
+273,@CNN,0.0,Wed Apr 18 01:57:15 +0000 2018,0.0,1.0,0.0,Former FBI Director James Comey sat down with Stephen Colbert on Tuesday for a wide-ranging interview that touched… https://t.co/5pLzK6FpKg,274
+274,@CNN,0.0,Wed Apr 18 01:53:15 +0000 2018,0.0,1.0,0.0,"""Somewhere out in this audience may even be someone who will one day follow my footsteps and preside over the White… https://t.co/MyfwQeFxZS",275
+275,@CNN,-0.4404,Wed Apr 18 01:46:25 +0000 2018,0.127,0.873,0.0,"RT @CNNTonight: Starbucks CEO Kevin Johnson to @DonLemon on arrests at Philadelphia store: ""They didn't deserve that""
+
+Watch the full inter…",276
+276,@CNN,0.8271,Wed Apr 18 01:27:24 +0000 2018,0.0,0.712,0.288,"RT @AC360: Former First Lady Barbara Bush was a powerhouse who personified love, levity and loyalty, says former Sen. Alan Simpson https://…",277
+277,@CNN,0.0,Wed Apr 18 01:26:29 +0000 2018,0.0,1.0,0.0,"""Barbara Bush redefined the role of first lady, not with her signature issue (which was literacy), but with the war… https://t.co/2qCJ6HxjVf",278
+278,@CNN,0.7184,Wed Apr 18 01:09:30 +0000 2018,0.0,0.793,0.207,"""Mom kept us on our toes and kept us laughing until the end. I'm a lucky man that Barbara Bush was my mother. Our f… https://t.co/ZLZhaPYzEk",279
+279,@CNN,0.743,Wed Apr 18 00:59:16 +0000 2018,0.0,0.741,0.259,"Barbara Bush will be remembered for ""strong devotion to country and family, both of which she served unfailingly we… https://t.co/BTiEioF2B4",280
+280,@CNN,0.0,Wed Apr 18 03:47:26 +0000 2018,0.0,1.0,0.0,"RT @CNNTonight: Speaking with @DonLemon, Starbucks CEO Kevin Johnson said his heart sank when he saw the video of two black men being arres…",281
+281,@CNN,0.0,Wed Apr 18 03:46:04 +0000 2018,0.0,1.0,0.0,10 things to remember about Donald Trump's taxes | Analysis by @CillizzaCNN https://t.co/K1Z57dYkPS https://t.co/OiKAnYh7Pb,282
+282,@CNN,0.0,Wed Apr 18 03:31:05 +0000 2018,0.0,1.0,0.0,How Asia's airports are changing the way we travel https://t.co/Qh1ygml6eL via @CNNTravel https://t.co/ZgcXJHq3bj,283
+283,@CNN,-0.4404,Wed Apr 18 03:20:28 +0000 2018,0.132,0.868,0.0,"RT @cnnbrk: A piece from the damaged Southwest jet was found 70 miles outside of Philadelphia, NTSB official says https://t.co/sV6MWpj1bN h…",284
+284,@CNN,0.4215,Wed Apr 18 03:16:38 +0000 2018,0.0,0.882,0.118,"First lady of the United States, mother to a US president and ""The Enforcer"" are just a few of the titles Barbara B… https://t.co/RX0FBhzGOl",285
+285,@CNN,0.0,Wed Apr 18 03:08:04 +0000 2018,0.0,1.0,0.0,"""They didn't deserve that."" Starbucks CEO Kevin Johnson says his heart sank when he saw the video of two black men… https://t.co/EUuP7pfkEi",286
+286,@CNN,0.6467,Wed Apr 18 03:01:05 +0000 2018,0.0,0.778,0.222,Happy Tax Day! Donald Trump still has never released his tax returns! | Analysis by @CillizzaCNN… https://t.co/7okIkYbBuB,287
+287,@CNN,0.128,Wed Apr 18 02:46:07 +0000 2018,0.0,0.903,0.097,President Donald Trump quashed Defense Secretary James Mattis' suggestion to obtain congressional authorization ahe… https://t.co/X4lpnq9nkd,288
+288,@CNN,0.0,Wed Apr 18 02:38:19 +0000 2018,0.0,1.0,0.0,"CIA Director Mike Pompeo traveled to North Korea over Easter weekend for a meeting with leader Kim Jong Un, sources… https://t.co/EaeKj9vlRq",289
+289,@CNN,-0.5688,Wed Apr 18 02:31:07 +0000 2018,0.206,0.794,0.0,"During a 1994 interview, former first lady Barbara Bush talked about what she missed the most about no longer being… https://t.co/c3INyONRGs",290
+290,@CNN,0.0,Wed Apr 18 02:18:07 +0000 2018,0.0,1.0,0.0,A startup called Rocket Lab just got a leg up on the race to launch tiny satellites https://t.co/8xKfezgckV https://t.co/2PyolQqloF,291
+291,@CNN,-0.5106,Wed Apr 18 02:13:18 +0000 2018,0.202,0.798,0.0,"Toys ""R"" Us rejected a $675 million bid from Bratz CEO Isaac Larian https://t.co/V21fbRSDOY https://t.co/o08rpg2YZ1",292
+292,@CNN,-0.7351,Wed Apr 18 02:09:47 +0000 2018,0.22,0.78,0.0,"RT @AC360: James Clapper on the death of former First Lady Barbara Bush: ""This is a loss of an iconic figure in this country"" https://t.co/…",293
+293,@CNN,0.0,Wed Apr 18 01:57:15 +0000 2018,0.0,1.0,0.0,Former FBI Director James Comey sat down with Stephen Colbert on Tuesday for a wide-ranging interview that touched… https://t.co/5pLzK6FpKg,294
+294,@CNN,0.0,Wed Apr 18 01:53:15 +0000 2018,0.0,1.0,0.0,"""Somewhere out in this audience may even be someone who will one day follow my footsteps and preside over the White… https://t.co/MyfwQeFxZS",295
+295,@CNN,-0.4404,Wed Apr 18 01:46:25 +0000 2018,0.127,0.873,0.0,"RT @CNNTonight: Starbucks CEO Kevin Johnson to @DonLemon on arrests at Philadelphia store: ""They didn't deserve that""
+
+Watch the full inter…",296
+296,@CNN,0.8271,Wed Apr 18 01:27:24 +0000 2018,0.0,0.712,0.288,"RT @AC360: Former First Lady Barbara Bush was a powerhouse who personified love, levity and loyalty, says former Sen. Alan Simpson https://…",297
+297,@CNN,0.0,Wed Apr 18 01:26:29 +0000 2018,0.0,1.0,0.0,"""Barbara Bush redefined the role of first lady, not with her signature issue (which was literacy), but with the war… https://t.co/2qCJ6HxjVf",298
+298,@CNN,0.7184,Wed Apr 18 01:09:30 +0000 2018,0.0,0.793,0.207,"""Mom kept us on our toes and kept us laughing until the end. I'm a lucky man that Barbara Bush was my mother. Our f… https://t.co/ZLZhaPYzEk",299
+299,@CNN,0.743,Wed Apr 18 00:59:16 +0000 2018,0.0,0.741,0.259,"Barbara Bush will be remembered for ""strong devotion to country and family, both of which she served unfailingly we… https://t.co/BTiEioF2B4",300
+300,@FoxNews,0.0,Wed Apr 18 03:57:20 +0000 2018,0.0,1.0,0.0,.@SenSchumer on the passing of Barbara Bush https://t.co/gPHfLKn5pg https://t.co/l2BkXHuLbG,301
+301,@FoxNews,-0.5994,Wed Apr 18 03:51:36 +0000 2018,0.196,0.804,0.0,.@BillClinton reacted to the death of former First Lady Barbara Bush in a tweet on Tuesday. https://t.co/gPHfLKn5pg https://t.co/24Oa4jN1OP,302
+302,@FoxNews,0.0,Wed Apr 18 03:42:16 +0000 2018,0.0,1.0,0.0,Flags fly at half-staff at the George Bush Presidential Library following the passing of former First Lady Barbara… https://t.co/8EeegnLO1I,303
+303,@FoxNews,0.0,Wed Apr 18 03:37:00 +0000 2018,0.0,1.0,0.0,.@NancyPelosi on the passing of Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/MVs5vNMoKc,304
+304,@FoxNews,0.0,Wed Apr 18 03:33:46 +0000 2018,0.0,1.0,0.0,"Moments ago, former First Lady @laurawbush wrote in an Instagram post that her mother-in-law Barbara Bush was her ""… https://t.co/dzaNJ866io",305
+305,@FoxNews,-0.5994,Wed Apr 18 03:27:00 +0000 2018,0.218,0.782,0.0,".@georgepbush reacts to the death of his grandmother, former First Lady Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/rKFhmhSoL7",306
+306,@FoxNews,0.4019,Wed Apr 18 03:21:41 +0000 2018,0.0,0.87,0.13,"The @SecretService tweeted their ""sincere condolences"" to the Bush family on the passing of former First Lady Barba… https://t.co/VgaIn7lVO6",307
+307,@FoxNews,0.0,Wed Apr 18 03:17:37 +0000 2018,0.0,1.0,0.0,"Jenna Bush Hager, granddaughter of Barbara Bush, wrote in an Instagram post that her grandmother was a ""FORCE of a… https://t.co/Z5fmJTsjgJ",308
+308,@FoxNews,0.0,Wed Apr 18 03:00:00 +0000 2018,0.0,1.0,0.0,"Dr. Marc Siegel: Barbara Bush was a pioneer not only in life, but in how she chose to spend her final days https://t.co/RDxSFBm20e",309
+309,@FoxNews,0.0,Wed Apr 18 02:53:27 +0000 2018,0.0,1.0,0.0,Former Vice President @JoeBiden released a statement on the passing of former First Lady Barbara Bush.… https://t.co/9kZEAMqZ9L,310
+310,@FoxNews,0.0,Wed Apr 18 02:53:09 +0000 2018,0.0,1.0,0.0,"Barbara Bush, 1925-2018 https://t.co/ZKxDlpzDVC https://t.co/OR0y30v0MG",311
+311,@FoxNews,0.0,Wed Apr 18 02:45:45 +0000 2018,0.0,1.0,0.0,President @realDonaldTrump and @FLOTUS Melania Trump released a statement on the passing of former First Lady Barba… https://t.co/hLJXOtyoq5,312
+312,@FoxNews,0.0,Wed Apr 18 02:15:55 +0000 2018,0.0,1.0,0.0,"BREAKING: Pompeo met with Kim Jong Un to try laying groundwork for North Korean leader’s summit with Trump, Fox New… https://t.co/iXn77fIXQY",313
+313,@FoxNews,0.5106,Wed Apr 18 02:05:34 +0000 2018,0.0,0.837,0.163,"RT @caseystegall: An update on how President Bush is doing, after the passing of his beloved Barbara. https://t.co/ee1mWC7Guo",314
+314,@FoxNews,0.0,Wed Apr 18 02:04:20 +0000 2018,0.0,1.0,0.0,Remembering Barbara Bush: A look back at the life of the former first lady. https://t.co/gPHfLKn5pg https://t.co/oxp3OqcHeZ,315
+315,@FoxNews,0.6369,Wed Apr 18 01:55:39 +0000 2018,0.0,0.811,0.189,American Love Story: Barbara Bush and George H.W. Bush were joined in matrimony longer than any other presidential… https://t.co/ipk8jHKm8g,316
+316,@FoxNews,0.0,Wed Apr 18 01:48:44 +0000 2018,0.0,1.0,0.0,".@VP Mike Pence and @SecondLady Karen Pence released a statement sending their ""deepest sympathies to President Bus… https://t.co/1RmFc99X9W",317
+317,@FoxNews,0.0,Wed Apr 18 01:38:59 +0000 2018,0.0,1.0,0.0,".@JebBush released a statement on the passing of his mother, former First Lady Barbara Bush. https://t.co/JAbBj3QaOH https://t.co/2dcHCB0OR0",318
+318,@FoxNews,-0.5994,Wed Apr 18 01:18:16 +0000 2018,0.281,0.719,0.0,Bush family reacts to former First Lady Barbara Bush's death https://t.co/RNxjacPOjW,319
+319,@FoxNews,0.0,Wed Apr 18 01:09:09 +0000 2018,0.0,1.0,0.0,"Remembering former First Lady Barbara Bush, who passed away on Tuesday at age 92. https://t.co/AoeGXouiqI",320
+320,@FoxNews,0.0,Wed Apr 18 03:57:20 +0000 2018,0.0,1.0,0.0,.@SenSchumer on the passing of Barbara Bush https://t.co/gPHfLKn5pg https://t.co/l2BkXHuLbG,321
+321,@FoxNews,-0.5994,Wed Apr 18 03:51:36 +0000 2018,0.196,0.804,0.0,.@BillClinton reacted to the death of former First Lady Barbara Bush in a tweet on Tuesday. https://t.co/gPHfLKn5pg https://t.co/24Oa4jN1OP,322
+322,@FoxNews,0.0,Wed Apr 18 03:42:16 +0000 2018,0.0,1.0,0.0,Flags fly at half-staff at the George Bush Presidential Library following the passing of former First Lady Barbara… https://t.co/8EeegnLO1I,323
+323,@FoxNews,0.0,Wed Apr 18 03:37:00 +0000 2018,0.0,1.0,0.0,.@NancyPelosi on the passing of Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/MVs5vNMoKc,324
+324,@FoxNews,0.0,Wed Apr 18 03:33:46 +0000 2018,0.0,1.0,0.0,"Moments ago, former First Lady @laurawbush wrote in an Instagram post that her mother-in-law Barbara Bush was her ""… https://t.co/dzaNJ866io",325
+325,@FoxNews,-0.5994,Wed Apr 18 03:27:00 +0000 2018,0.218,0.782,0.0,".@georgepbush reacts to the death of his grandmother, former First Lady Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/rKFhmhSoL7",326
+326,@FoxNews,0.4019,Wed Apr 18 03:21:41 +0000 2018,0.0,0.87,0.13,"The @SecretService tweeted their ""sincere condolences"" to the Bush family on the passing of former First Lady Barba… https://t.co/VgaIn7lVO6",327
+327,@FoxNews,0.0,Wed Apr 18 03:17:37 +0000 2018,0.0,1.0,0.0,"Jenna Bush Hager, granddaughter of Barbara Bush, wrote in an Instagram post that her grandmother was a ""FORCE of a… https://t.co/Z5fmJTsjgJ",328
+328,@FoxNews,0.0,Wed Apr 18 03:00:00 +0000 2018,0.0,1.0,0.0,"Dr. Marc Siegel: Barbara Bush was a pioneer not only in life, but in how she chose to spend her final days https://t.co/RDxSFBm20e",329
+329,@FoxNews,0.0,Wed Apr 18 02:53:27 +0000 2018,0.0,1.0,0.0,Former Vice President @JoeBiden released a statement on the passing of former First Lady Barbara Bush.… https://t.co/9kZEAMqZ9L,330
+330,@FoxNews,0.0,Wed Apr 18 02:53:09 +0000 2018,0.0,1.0,0.0,"Barbara Bush, 1925-2018 https://t.co/ZKxDlpzDVC https://t.co/OR0y30v0MG",331
+331,@FoxNews,0.0,Wed Apr 18 02:45:45 +0000 2018,0.0,1.0,0.0,President @realDonaldTrump and @FLOTUS Melania Trump released a statement on the passing of former First Lady Barba… https://t.co/hLJXOtyoq5,332
+332,@FoxNews,0.0,Wed Apr 18 02:15:55 +0000 2018,0.0,1.0,0.0,"BREAKING: Pompeo met with Kim Jong Un to try laying groundwork for North Korean leader’s summit with Trump, Fox New… https://t.co/iXn77fIXQY",333
+333,@FoxNews,0.5106,Wed Apr 18 02:05:34 +0000 2018,0.0,0.837,0.163,"RT @caseystegall: An update on how President Bush is doing, after the passing of his beloved Barbara. https://t.co/ee1mWC7Guo",334
+334,@FoxNews,0.0,Wed Apr 18 02:04:20 +0000 2018,0.0,1.0,0.0,Remembering Barbara Bush: A look back at the life of the former first lady. https://t.co/gPHfLKn5pg https://t.co/oxp3OqcHeZ,335
+335,@FoxNews,0.6369,Wed Apr 18 01:55:39 +0000 2018,0.0,0.811,0.189,American Love Story: Barbara Bush and George H.W. Bush were joined in matrimony longer than any other presidential… https://t.co/ipk8jHKm8g,336
+336,@FoxNews,0.0,Wed Apr 18 01:48:44 +0000 2018,0.0,1.0,0.0,".@VP Mike Pence and @SecondLady Karen Pence released a statement sending their ""deepest sympathies to President Bus… https://t.co/1RmFc99X9W",337
+337,@FoxNews,0.0,Wed Apr 18 01:38:59 +0000 2018,0.0,1.0,0.0,".@JebBush released a statement on the passing of his mother, former First Lady Barbara Bush. https://t.co/JAbBj3QaOH https://t.co/2dcHCB0OR0",338
+338,@FoxNews,-0.5994,Wed Apr 18 01:18:16 +0000 2018,0.281,0.719,0.0,Bush family reacts to former First Lady Barbara Bush's death https://t.co/RNxjacPOjW,339
+339,@FoxNews,0.0,Wed Apr 18 01:09:09 +0000 2018,0.0,1.0,0.0,"Remembering former First Lady Barbara Bush, who passed away on Tuesday at age 92. https://t.co/AoeGXouiqI",340
+340,@FoxNews,0.0,Wed Apr 18 03:57:20 +0000 2018,0.0,1.0,0.0,.@SenSchumer on the passing of Barbara Bush https://t.co/gPHfLKn5pg https://t.co/l2BkXHuLbG,341
+341,@FoxNews,-0.5994,Wed Apr 18 03:51:36 +0000 2018,0.196,0.804,0.0,.@BillClinton reacted to the death of former First Lady Barbara Bush in a tweet on Tuesday. https://t.co/gPHfLKn5pg https://t.co/24Oa4jN1OP,342
+342,@FoxNews,0.0,Wed Apr 18 03:42:16 +0000 2018,0.0,1.0,0.0,Flags fly at half-staff at the George Bush Presidential Library following the passing of former First Lady Barbara… https://t.co/8EeegnLO1I,343
+343,@FoxNews,0.0,Wed Apr 18 03:37:00 +0000 2018,0.0,1.0,0.0,.@NancyPelosi on the passing of Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/MVs5vNMoKc,344
+344,@FoxNews,0.0,Wed Apr 18 03:33:46 +0000 2018,0.0,1.0,0.0,"Moments ago, former First Lady @laurawbush wrote in an Instagram post that her mother-in-law Barbara Bush was her ""… https://t.co/dzaNJ866io",345
+345,@FoxNews,-0.5994,Wed Apr 18 03:27:00 +0000 2018,0.218,0.782,0.0,".@georgepbush reacts to the death of his grandmother, former First Lady Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/rKFhmhSoL7",346
+346,@FoxNews,0.4019,Wed Apr 18 03:21:41 +0000 2018,0.0,0.87,0.13,"The @SecretService tweeted their ""sincere condolences"" to the Bush family on the passing of former First Lady Barba… https://t.co/VgaIn7lVO6",347
+347,@FoxNews,0.0,Wed Apr 18 03:17:37 +0000 2018,0.0,1.0,0.0,"Jenna Bush Hager, granddaughter of Barbara Bush, wrote in an Instagram post that her grandmother was a ""FORCE of a… https://t.co/Z5fmJTsjgJ",348
+348,@FoxNews,0.0,Wed Apr 18 03:00:00 +0000 2018,0.0,1.0,0.0,"Dr. Marc Siegel: Barbara Bush was a pioneer not only in life, but in how she chose to spend her final days https://t.co/RDxSFBm20e",349
+349,@FoxNews,0.0,Wed Apr 18 02:53:27 +0000 2018,0.0,1.0,0.0,Former Vice President @JoeBiden released a statement on the passing of former First Lady Barbara Bush.… https://t.co/9kZEAMqZ9L,350
+350,@FoxNews,0.0,Wed Apr 18 02:53:09 +0000 2018,0.0,1.0,0.0,"Barbara Bush, 1925-2018 https://t.co/ZKxDlpzDVC https://t.co/OR0y30v0MG",351
+351,@FoxNews,0.0,Wed Apr 18 02:45:45 +0000 2018,0.0,1.0,0.0,President @realDonaldTrump and @FLOTUS Melania Trump released a statement on the passing of former First Lady Barba… https://t.co/hLJXOtyoq5,352
+352,@FoxNews,0.0,Wed Apr 18 02:15:55 +0000 2018,0.0,1.0,0.0,"BREAKING: Pompeo met with Kim Jong Un to try laying groundwork for North Korean leader’s summit with Trump, Fox New… https://t.co/iXn77fIXQY",353
+353,@FoxNews,0.5106,Wed Apr 18 02:05:34 +0000 2018,0.0,0.837,0.163,"RT @caseystegall: An update on how President Bush is doing, after the passing of his beloved Barbara. https://t.co/ee1mWC7Guo",354
+354,@FoxNews,0.0,Wed Apr 18 02:04:20 +0000 2018,0.0,1.0,0.0,Remembering Barbara Bush: A look back at the life of the former first lady. https://t.co/gPHfLKn5pg https://t.co/oxp3OqcHeZ,355
+355,@FoxNews,0.6369,Wed Apr 18 01:55:39 +0000 2018,0.0,0.811,0.189,American Love Story: Barbara Bush and George H.W. Bush were joined in matrimony longer than any other presidential… https://t.co/ipk8jHKm8g,356
+356,@FoxNews,0.0,Wed Apr 18 01:48:44 +0000 2018,0.0,1.0,0.0,".@VP Mike Pence and @SecondLady Karen Pence released a statement sending their ""deepest sympathies to President Bus… https://t.co/1RmFc99X9W",357
+357,@FoxNews,0.0,Wed Apr 18 01:38:59 +0000 2018,0.0,1.0,0.0,".@JebBush released a statement on the passing of his mother, former First Lady Barbara Bush. https://t.co/JAbBj3QaOH https://t.co/2dcHCB0OR0",358
+358,@FoxNews,-0.5994,Wed Apr 18 01:18:16 +0000 2018,0.281,0.719,0.0,Bush family reacts to former First Lady Barbara Bush's death https://t.co/RNxjacPOjW,359
+359,@FoxNews,0.0,Wed Apr 18 01:09:09 +0000 2018,0.0,1.0,0.0,"Remembering former First Lady Barbara Bush, who passed away on Tuesday at age 92. https://t.co/AoeGXouiqI",360
+360,@FoxNews,0.0,Wed Apr 18 03:57:20 +0000 2018,0.0,1.0,0.0,.@SenSchumer on the passing of Barbara Bush https://t.co/gPHfLKn5pg https://t.co/l2BkXHuLbG,361
+361,@FoxNews,-0.5994,Wed Apr 18 03:51:36 +0000 2018,0.196,0.804,0.0,.@BillClinton reacted to the death of former First Lady Barbara Bush in a tweet on Tuesday. https://t.co/gPHfLKn5pg https://t.co/24Oa4jN1OP,362
+362,@FoxNews,0.0,Wed Apr 18 03:42:16 +0000 2018,0.0,1.0,0.0,Flags fly at half-staff at the George Bush Presidential Library following the passing of former First Lady Barbara… https://t.co/8EeegnLO1I,363
+363,@FoxNews,0.0,Wed Apr 18 03:37:00 +0000 2018,0.0,1.0,0.0,.@NancyPelosi on the passing of Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/MVs5vNMoKc,364
+364,@FoxNews,0.0,Wed Apr 18 03:33:46 +0000 2018,0.0,1.0,0.0,"Moments ago, former First Lady @laurawbush wrote in an Instagram post that her mother-in-law Barbara Bush was her ""… https://t.co/dzaNJ866io",365
+365,@FoxNews,-0.5994,Wed Apr 18 03:27:00 +0000 2018,0.218,0.782,0.0,".@georgepbush reacts to the death of his grandmother, former First Lady Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/rKFhmhSoL7",366
+366,@FoxNews,0.4019,Wed Apr 18 03:21:41 +0000 2018,0.0,0.87,0.13,"The @SecretService tweeted their ""sincere condolences"" to the Bush family on the passing of former First Lady Barba… https://t.co/VgaIn7lVO6",367
+367,@FoxNews,0.0,Wed Apr 18 03:17:37 +0000 2018,0.0,1.0,0.0,"Jenna Bush Hager, granddaughter of Barbara Bush, wrote in an Instagram post that her grandmother was a ""FORCE of a… https://t.co/Z5fmJTsjgJ",368
+368,@FoxNews,0.0,Wed Apr 18 03:00:00 +0000 2018,0.0,1.0,0.0,"Dr. Marc Siegel: Barbara Bush was a pioneer not only in life, but in how she chose to spend her final days https://t.co/RDxSFBm20e",369
+369,@FoxNews,0.0,Wed Apr 18 02:53:27 +0000 2018,0.0,1.0,0.0,Former Vice President @JoeBiden released a statement on the passing of former First Lady Barbara Bush.… https://t.co/9kZEAMqZ9L,370
+370,@FoxNews,0.0,Wed Apr 18 02:53:09 +0000 2018,0.0,1.0,0.0,"Barbara Bush, 1925-2018 https://t.co/ZKxDlpzDVC https://t.co/OR0y30v0MG",371
+371,@FoxNews,0.0,Wed Apr 18 02:45:45 +0000 2018,0.0,1.0,0.0,President @realDonaldTrump and @FLOTUS Melania Trump released a statement on the passing of former First Lady Barba… https://t.co/hLJXOtyoq5,372
+372,@FoxNews,0.0,Wed Apr 18 02:15:55 +0000 2018,0.0,1.0,0.0,"BREAKING: Pompeo met with Kim Jong Un to try laying groundwork for North Korean leader’s summit with Trump, Fox New… https://t.co/iXn77fIXQY",373
+373,@FoxNews,0.5106,Wed Apr 18 02:05:34 +0000 2018,0.0,0.837,0.163,"RT @caseystegall: An update on how President Bush is doing, after the passing of his beloved Barbara. https://t.co/ee1mWC7Guo",374
+374,@FoxNews,0.0,Wed Apr 18 02:04:20 +0000 2018,0.0,1.0,0.0,Remembering Barbara Bush: A look back at the life of the former first lady. https://t.co/gPHfLKn5pg https://t.co/oxp3OqcHeZ,375
+375,@FoxNews,0.6369,Wed Apr 18 01:55:39 +0000 2018,0.0,0.811,0.189,American Love Story: Barbara Bush and George H.W. Bush were joined in matrimony longer than any other presidential… https://t.co/ipk8jHKm8g,376
+376,@FoxNews,0.0,Wed Apr 18 01:48:44 +0000 2018,0.0,1.0,0.0,".@VP Mike Pence and @SecondLady Karen Pence released a statement sending their ""deepest sympathies to President Bus… https://t.co/1RmFc99X9W",377
+377,@FoxNews,0.0,Wed Apr 18 01:38:59 +0000 2018,0.0,1.0,0.0,".@JebBush released a statement on the passing of his mother, former First Lady Barbara Bush. https://t.co/JAbBj3QaOH https://t.co/2dcHCB0OR0",378
+378,@FoxNews,-0.5994,Wed Apr 18 01:18:16 +0000 2018,0.281,0.719,0.0,Bush family reacts to former First Lady Barbara Bush's death https://t.co/RNxjacPOjW,379
+379,@FoxNews,0.0,Wed Apr 18 01:09:09 +0000 2018,0.0,1.0,0.0,"Remembering former First Lady Barbara Bush, who passed away on Tuesday at age 92. https://t.co/AoeGXouiqI",380
+380,@FoxNews,0.0,Wed Apr 18 03:57:20 +0000 2018,0.0,1.0,0.0,.@SenSchumer on the passing of Barbara Bush https://t.co/gPHfLKn5pg https://t.co/l2BkXHuLbG,381
+381,@FoxNews,-0.5994,Wed Apr 18 03:51:36 +0000 2018,0.196,0.804,0.0,.@BillClinton reacted to the death of former First Lady Barbara Bush in a tweet on Tuesday. https://t.co/gPHfLKn5pg https://t.co/24Oa4jN1OP,382
+382,@FoxNews,0.0,Wed Apr 18 03:42:16 +0000 2018,0.0,1.0,0.0,Flags fly at half-staff at the George Bush Presidential Library following the passing of former First Lady Barbara… https://t.co/8EeegnLO1I,383
+383,@FoxNews,0.0,Wed Apr 18 03:37:00 +0000 2018,0.0,1.0,0.0,.@NancyPelosi on the passing of Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/MVs5vNMoKc,384
+384,@FoxNews,0.0,Wed Apr 18 03:33:46 +0000 2018,0.0,1.0,0.0,"Moments ago, former First Lady @laurawbush wrote in an Instagram post that her mother-in-law Barbara Bush was her ""… https://t.co/dzaNJ866io",385
+385,@FoxNews,-0.5994,Wed Apr 18 03:27:00 +0000 2018,0.218,0.782,0.0,".@georgepbush reacts to the death of his grandmother, former First Lady Barbara Bush. https://t.co/gPHfLKEGgO https://t.co/rKFhmhSoL7",386
+386,@FoxNews,0.4019,Wed Apr 18 03:21:41 +0000 2018,0.0,0.87,0.13,"The @SecretService tweeted their ""sincere condolences"" to the Bush family on the passing of former First Lady Barba… https://t.co/VgaIn7lVO6",387
+387,@FoxNews,0.0,Wed Apr 18 03:17:37 +0000 2018,0.0,1.0,0.0,"Jenna Bush Hager, granddaughter of Barbara Bush, wrote in an Instagram post that her grandmother was a ""FORCE of a… https://t.co/Z5fmJTsjgJ",388
+388,@FoxNews,0.0,Wed Apr 18 03:00:00 +0000 2018,0.0,1.0,0.0,"Dr. Marc Siegel: Barbara Bush was a pioneer not only in life, but in how she chose to spend her final days https://t.co/RDxSFBm20e",389
+389,@FoxNews,0.0,Wed Apr 18 02:53:27 +0000 2018,0.0,1.0,0.0,Former Vice President @JoeBiden released a statement on the passing of former First Lady Barbara Bush.… https://t.co/9kZEAMqZ9L,390
+390,@FoxNews,0.0,Wed Apr 18 02:53:09 +0000 2018,0.0,1.0,0.0,"Barbara Bush, 1925-2018 https://t.co/ZKxDlpzDVC https://t.co/OR0y30v0MG",391
+391,@FoxNews,0.0,Wed Apr 18 02:45:45 +0000 2018,0.0,1.0,0.0,President @realDonaldTrump and @FLOTUS Melania Trump released a statement on the passing of former First Lady Barba… https://t.co/hLJXOtyoq5,392
+392,@FoxNews,0.0,Wed Apr 18 02:15:55 +0000 2018,0.0,1.0,0.0,"BREAKING: Pompeo met with Kim Jong Un to try laying groundwork for North Korean leader’s summit with Trump, Fox New… https://t.co/iXn77fIXQY",393
+393,@FoxNews,0.5106,Wed Apr 18 02:05:34 +0000 2018,0.0,0.837,0.163,"RT @caseystegall: An update on how President Bush is doing, after the passing of his beloved Barbara. https://t.co/ee1mWC7Guo",394
+394,@FoxNews,0.0,Wed Apr 18 02:04:20 +0000 2018,0.0,1.0,0.0,Remembering Barbara Bush: A look back at the life of the former first lady. https://t.co/gPHfLKn5pg https://t.co/oxp3OqcHeZ,395
+395,@FoxNews,0.6369,Wed Apr 18 01:55:39 +0000 2018,0.0,0.811,0.189,American Love Story: Barbara Bush and George H.W. Bush were joined in matrimony longer than any other presidential… https://t.co/ipk8jHKm8g,396
+396,@FoxNews,0.0,Wed Apr 18 01:48:44 +0000 2018,0.0,1.0,0.0,".@VP Mike Pence and @SecondLady Karen Pence released a statement sending their ""deepest sympathies to President Bus… https://t.co/1RmFc99X9W",397
+397,@FoxNews,0.0,Wed Apr 18 01:38:59 +0000 2018,0.0,1.0,0.0,".@JebBush released a statement on the passing of his mother, former First Lady Barbara Bush. https://t.co/JAbBj3QaOH https://t.co/2dcHCB0OR0",398
+398,@FoxNews,-0.5994,Wed Apr 18 01:18:16 +0000 2018,0.281,0.719,0.0,Bush family reacts to former First Lady Barbara Bush's death https://t.co/RNxjacPOjW,399
+399,@FoxNews,0.0,Wed Apr 18 01:09:09 +0000 2018,0.0,1.0,0.0,"Remembering former First Lady Barbara Bush, who passed away on Tuesday at age 92. https://t.co/AoeGXouiqI",400
+400,@nytimes,-0.7506,Wed Apr 18 03:47:01 +0000 2018,0.381,0.508,0.11,Legislator after legislator talked about a dire affordable-housing crisis that demanded bold action and a marked in… https://t.co/tI0b774qfT,401
+401,@nytimes,0.0,Wed Apr 18 03:32:03 +0000 2018,0.0,1.0,0.0,After crossing the finish line she asked officials what place she had come in. They told her second. She wondered w… https://t.co/VGEl6j2dg6,402
+402,@nytimes,0.0,Wed Apr 18 03:17:04 +0000 2018,0.0,1.0,0.0,"RT @karenyourish: Connect the dots: the president, his lawyer, a porn star, a Playboy model and the National Enquirer. https://t.co/1uO17mE…",403
+403,@nytimes,0.0,Wed Apr 18 03:02:03 +0000 2018,0.0,1.0,0.0,"Starbucks will close more than 8,000 of its stores in the U.S. on May 29 to conduct racial-bias training for nearly… https://t.co/iARlzFAmbs",404
+404,@nytimes,0.5859,Wed Apr 18 02:51:03 +0000 2018,0.0,0.858,0.142,RT @jakesNYT: NEW: The backstory on how the White House hung U.N. ambassador Nikki Haley out to dry on new Russia sanctions. Amazing detail…,405
+405,@nytimes,0.0,Wed Apr 18 02:47:01 +0000 2018,0.0,1.0,0.0,Here’s a look at everything Sean Hannity said about Michael Cohen on “Hannity” in the past week https://t.co/wQEdibjtGq,406
+406,@nytimes,0.7096,Wed Apr 18 02:32:02 +0000 2018,0.0,0.781,0.219,"The New York Times obituary for Carl Kasell, an NPR star, who went from news anchor to beloved comedian on the popu… https://t.co/tNsoCzEHU8",407
+407,@nytimes,0.0,Wed Apr 18 02:26:02 +0000 2018,0.0,1.0,0.0,RT @palafo: The job went to a woman https://t.co/fMXIR8MtnB,408
+408,@nytimes,-0.0516,Wed Apr 18 02:17:04 +0000 2018,0.157,0.696,0.148,RT @nytopinion: Any other president would have fired Scott Pruitt by now. But Donald Trump praises him. https://t.co/VQT9UZswJO,409
+409,@nytimes,0.5574,Wed Apr 18 02:02:07 +0000 2018,0.0,0.753,0.247,Defense Secretary Jim Mattis urged President Trump to get congressional approval before launching airstrikes agains… https://t.co/r6HBJptan6,410
+410,@nytimes,0.4404,Wed Apr 18 01:47:05 +0000 2018,0.0,0.805,0.195,"RT @NYTNational: ?? “Is San Francisco safe from the next big earthquake?”
+
+https://t.co/ySMIoCfe6o",411
+411,@nytimes,0.0,Wed Apr 18 01:32:05 +0000 2018,0.0,1.0,0.0,"The New York Times obituary for Barbara Bush
+https://t.co/wgJ4nGz2fd https://t.co/m1SrgUwjYL",412
+412,@nytimes,0.0,Wed Apr 18 01:22:02 +0000 2018,0.0,1.0,0.0,"RT @motokorich: Pompeo meets Kim, Trump meets Abe. Could the DMZ actually demilitarize? Will US rejoining TPP ever be other than “a thought…",413
+413,@nytimes,0.0,Wed Apr 18 01:10:38 +0000 2018,0.0,1.0,0.0,Breaking News: The CIA director Mike Pompeo is said to have met with North Korea’s Kim Jong-un in recent weeks to s… https://t.co/VDyaONO7R1,414
+414,@nytimes,0.0,Wed Apr 18 01:02:04 +0000 2018,0.0,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/Q31jFUASUr,415
+415,@nytimes,-0.4019,Wed Apr 18 00:47:02 +0000 2018,0.153,0.847,0.0,"""I don’t get confused,’ Nikki Haley says, rebuffing the White House in Russia sanctions dispute https://t.co/WEJXzG2urB",416
+416,@nytimes,0.4588,Wed Apr 18 00:32:04 +0000 2018,0.0,0.885,0.115,RT @FrankBruni: One of my favorite stories about Barbara Bush is one from her granddaughters about her lecture to them on White House etiqu…,417
+417,@nytimes,0.0,Wed Apr 18 00:22:05 +0000 2018,0.0,1.0,0.0,"The IRS website is working again, and taxpayers will get an extra day to file. Earlier the site advised: ""Come back… https://t.co/l9Pmytkbh7",418
+418,@nytimes,0.8519,Wed Apr 18 00:11:05 +0000 2018,0.0,0.712,0.288,"RT @marclacey: Bill Clinton on Barbara Bush: ""She had grit and grace, brains &amp; beauty. She was fierce and feisty in support of her family a…",419
+419,@nytimes,0.0,Wed Apr 18 00:04:00 +0000 2018,0.0,1.0,0.0,Barbara Bush: a life in photographs https://t.co/EcwTeWBTWv,420
+420,@nytimes,-0.7506,Wed Apr 18 03:47:01 +0000 2018,0.381,0.508,0.11,Legislator after legislator talked about a dire affordable-housing crisis that demanded bold action and a marked in… https://t.co/tI0b774qfT,421
+421,@nytimes,0.0,Wed Apr 18 03:32:03 +0000 2018,0.0,1.0,0.0,After crossing the finish line she asked officials what place she had come in. They told her second. She wondered w… https://t.co/VGEl6j2dg6,422
+422,@nytimes,0.0,Wed Apr 18 03:17:04 +0000 2018,0.0,1.0,0.0,"RT @karenyourish: Connect the dots: the president, his lawyer, a porn star, a Playboy model and the National Enquirer. https://t.co/1uO17mE…",423
+423,@nytimes,0.0,Wed Apr 18 03:02:03 +0000 2018,0.0,1.0,0.0,"Starbucks will close more than 8,000 of its stores in the U.S. on May 29 to conduct racial-bias training for nearly… https://t.co/iARlzFAmbs",424
+424,@nytimes,0.5859,Wed Apr 18 02:51:03 +0000 2018,0.0,0.858,0.142,RT @jakesNYT: NEW: The backstory on how the White House hung U.N. ambassador Nikki Haley out to dry on new Russia sanctions. Amazing detail…,425
+425,@nytimes,0.0,Wed Apr 18 02:47:01 +0000 2018,0.0,1.0,0.0,Here’s a look at everything Sean Hannity said about Michael Cohen on “Hannity” in the past week https://t.co/wQEdibjtGq,426
+426,@nytimes,0.7096,Wed Apr 18 02:32:02 +0000 2018,0.0,0.781,0.219,"The New York Times obituary for Carl Kasell, an NPR star, who went from news anchor to beloved comedian on the popu… https://t.co/tNsoCzEHU8",427
+427,@nytimes,0.0,Wed Apr 18 02:26:02 +0000 2018,0.0,1.0,0.0,RT @palafo: The job went to a woman https://t.co/fMXIR8MtnB,428
+428,@nytimes,-0.0516,Wed Apr 18 02:17:04 +0000 2018,0.157,0.696,0.148,RT @nytopinion: Any other president would have fired Scott Pruitt by now. But Donald Trump praises him. https://t.co/VQT9UZswJO,429
+429,@nytimes,0.5574,Wed Apr 18 02:02:07 +0000 2018,0.0,0.753,0.247,Defense Secretary Jim Mattis urged President Trump to get congressional approval before launching airstrikes agains… https://t.co/r6HBJptan6,430
+430,@nytimes,0.4404,Wed Apr 18 01:47:05 +0000 2018,0.0,0.805,0.195,"RT @NYTNational: ?? “Is San Francisco safe from the next big earthquake?”
+
+https://t.co/ySMIoCfe6o",431
+431,@nytimes,0.0,Wed Apr 18 01:32:05 +0000 2018,0.0,1.0,0.0,"The New York Times obituary for Barbara Bush
+https://t.co/wgJ4nGz2fd https://t.co/m1SrgUwjYL",432
+432,@nytimes,0.0,Wed Apr 18 01:22:02 +0000 2018,0.0,1.0,0.0,"RT @motokorich: Pompeo meets Kim, Trump meets Abe. Could the DMZ actually demilitarize? Will US rejoining TPP ever be other than “a thought…",433
+433,@nytimes,0.0,Wed Apr 18 01:10:38 +0000 2018,0.0,1.0,0.0,Breaking News: The CIA director Mike Pompeo is said to have met with North Korea’s Kim Jong-un in recent weeks to s… https://t.co/VDyaONO7R1,434
+434,@nytimes,0.0,Wed Apr 18 01:02:04 +0000 2018,0.0,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/Q31jFUASUr,435
+435,@nytimes,-0.4019,Wed Apr 18 00:47:02 +0000 2018,0.153,0.847,0.0,"""I don’t get confused,’ Nikki Haley says, rebuffing the White House in Russia sanctions dispute https://t.co/WEJXzG2urB",436
+436,@nytimes,0.4588,Wed Apr 18 00:32:04 +0000 2018,0.0,0.885,0.115,RT @FrankBruni: One of my favorite stories about Barbara Bush is one from her granddaughters about her lecture to them on White House etiqu…,437
+437,@nytimes,0.0,Wed Apr 18 00:22:05 +0000 2018,0.0,1.0,0.0,"The IRS website is working again, and taxpayers will get an extra day to file. Earlier the site advised: ""Come back… https://t.co/l9Pmytkbh7",438
+438,@nytimes,0.8519,Wed Apr 18 00:11:05 +0000 2018,0.0,0.712,0.288,"RT @marclacey: Bill Clinton on Barbara Bush: ""She had grit and grace, brains &amp; beauty. She was fierce and feisty in support of her family a…",439
+439,@nytimes,0.0,Wed Apr 18 00:04:00 +0000 2018,0.0,1.0,0.0,Barbara Bush: a life in photographs https://t.co/EcwTeWBTWv,440
+440,@nytimes,-0.7506,Wed Apr 18 03:47:01 +0000 2018,0.381,0.508,0.11,Legislator after legislator talked about a dire affordable-housing crisis that demanded bold action and a marked in… https://t.co/tI0b774qfT,441
+441,@nytimes,0.0,Wed Apr 18 03:32:03 +0000 2018,0.0,1.0,0.0,After crossing the finish line she asked officials what place she had come in. They told her second. She wondered w… https://t.co/VGEl6j2dg6,442
+442,@nytimes,0.0,Wed Apr 18 03:17:04 +0000 2018,0.0,1.0,0.0,"RT @karenyourish: Connect the dots: the president, his lawyer, a porn star, a Playboy model and the National Enquirer. https://t.co/1uO17mE…",443
+443,@nytimes,0.0,Wed Apr 18 03:02:03 +0000 2018,0.0,1.0,0.0,"Starbucks will close more than 8,000 of its stores in the U.S. on May 29 to conduct racial-bias training for nearly… https://t.co/iARlzFAmbs",444
+444,@nytimes,0.5859,Wed Apr 18 02:51:03 +0000 2018,0.0,0.858,0.142,RT @jakesNYT: NEW: The backstory on how the White House hung U.N. ambassador Nikki Haley out to dry on new Russia sanctions. Amazing detail…,445
+445,@nytimes,0.0,Wed Apr 18 02:47:01 +0000 2018,0.0,1.0,0.0,Here’s a look at everything Sean Hannity said about Michael Cohen on “Hannity” in the past week https://t.co/wQEdibjtGq,446
+446,@nytimes,0.7096,Wed Apr 18 02:32:02 +0000 2018,0.0,0.781,0.219,"The New York Times obituary for Carl Kasell, an NPR star, who went from news anchor to beloved comedian on the popu… https://t.co/tNsoCzEHU8",447
+447,@nytimes,0.0,Wed Apr 18 02:26:02 +0000 2018,0.0,1.0,0.0,RT @palafo: The job went to a woman https://t.co/fMXIR8MtnB,448
+448,@nytimes,-0.0516,Wed Apr 18 02:17:04 +0000 2018,0.157,0.696,0.148,RT @nytopinion: Any other president would have fired Scott Pruitt by now. But Donald Trump praises him. https://t.co/VQT9UZswJO,449
+449,@nytimes,0.5574,Wed Apr 18 02:02:07 +0000 2018,0.0,0.753,0.247,Defense Secretary Jim Mattis urged President Trump to get congressional approval before launching airstrikes agains… https://t.co/r6HBJptan6,450
+450,@nytimes,0.4404,Wed Apr 18 01:47:05 +0000 2018,0.0,0.805,0.195,"RT @NYTNational: ?? “Is San Francisco safe from the next big earthquake?”
+
+https://t.co/ySMIoCfe6o",451
+451,@nytimes,0.0,Wed Apr 18 01:32:05 +0000 2018,0.0,1.0,0.0,"The New York Times obituary for Barbara Bush
+https://t.co/wgJ4nGz2fd https://t.co/m1SrgUwjYL",452
+452,@nytimes,0.0,Wed Apr 18 01:22:02 +0000 2018,0.0,1.0,0.0,"RT @motokorich: Pompeo meets Kim, Trump meets Abe. Could the DMZ actually demilitarize? Will US rejoining TPP ever be other than “a thought…",453
+453,@nytimes,0.0,Wed Apr 18 01:10:38 +0000 2018,0.0,1.0,0.0,Breaking News: The CIA director Mike Pompeo is said to have met with North Korea’s Kim Jong-un in recent weeks to s… https://t.co/VDyaONO7R1,454
+454,@nytimes,0.0,Wed Apr 18 01:02:04 +0000 2018,0.0,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/Q31jFUASUr,455
+455,@nytimes,-0.4019,Wed Apr 18 00:47:02 +0000 2018,0.153,0.847,0.0,"""I don’t get confused,’ Nikki Haley says, rebuffing the White House in Russia sanctions dispute https://t.co/WEJXzG2urB",456
+456,@nytimes,0.4588,Wed Apr 18 00:32:04 +0000 2018,0.0,0.885,0.115,RT @FrankBruni: One of my favorite stories about Barbara Bush is one from her granddaughters about her lecture to them on White House etiqu…,457
+457,@nytimes,0.0,Wed Apr 18 00:22:05 +0000 2018,0.0,1.0,0.0,"The IRS website is working again, and taxpayers will get an extra day to file. Earlier the site advised: ""Come back… https://t.co/l9Pmytkbh7",458
+458,@nytimes,0.8519,Wed Apr 18 00:11:05 +0000 2018,0.0,0.712,0.288,"RT @marclacey: Bill Clinton on Barbara Bush: ""She had grit and grace, brains &amp; beauty. She was fierce and feisty in support of her family a…",459
+459,@nytimes,0.0,Wed Apr 18 00:04:00 +0000 2018,0.0,1.0,0.0,Barbara Bush: a life in photographs https://t.co/EcwTeWBTWv,460
+460,@nytimes,-0.7506,Wed Apr 18 03:47:01 +0000 2018,0.381,0.508,0.11,Legislator after legislator talked about a dire affordable-housing crisis that demanded bold action and a marked in… https://t.co/tI0b774qfT,461
+461,@nytimes,0.0,Wed Apr 18 03:32:03 +0000 2018,0.0,1.0,0.0,After crossing the finish line she asked officials what place she had come in. They told her second. She wondered w… https://t.co/VGEl6j2dg6,462
+462,@nytimes,0.0,Wed Apr 18 03:17:04 +0000 2018,0.0,1.0,0.0,"RT @karenyourish: Connect the dots: the president, his lawyer, a porn star, a Playboy model and the National Enquirer. https://t.co/1uO17mE…",463
+463,@nytimes,0.0,Wed Apr 18 03:02:03 +0000 2018,0.0,1.0,0.0,"Starbucks will close more than 8,000 of its stores in the U.S. on May 29 to conduct racial-bias training for nearly… https://t.co/iARlzFAmbs",464
+464,@nytimes,0.5859,Wed Apr 18 02:51:03 +0000 2018,0.0,0.858,0.142,RT @jakesNYT: NEW: The backstory on how the White House hung U.N. ambassador Nikki Haley out to dry on new Russia sanctions. Amazing detail…,465
+465,@nytimes,0.0,Wed Apr 18 02:47:01 +0000 2018,0.0,1.0,0.0,Here’s a look at everything Sean Hannity said about Michael Cohen on “Hannity” in the past week https://t.co/wQEdibjtGq,466
+466,@nytimes,0.7096,Wed Apr 18 02:32:02 +0000 2018,0.0,0.781,0.219,"The New York Times obituary for Carl Kasell, an NPR star, who went from news anchor to beloved comedian on the popu… https://t.co/tNsoCzEHU8",467
+467,@nytimes,0.0,Wed Apr 18 02:26:02 +0000 2018,0.0,1.0,0.0,RT @palafo: The job went to a woman https://t.co/fMXIR8MtnB,468
+468,@nytimes,-0.0516,Wed Apr 18 02:17:04 +0000 2018,0.157,0.696,0.148,RT @nytopinion: Any other president would have fired Scott Pruitt by now. But Donald Trump praises him. https://t.co/VQT9UZswJO,469
+469,@nytimes,0.5574,Wed Apr 18 02:02:07 +0000 2018,0.0,0.753,0.247,Defense Secretary Jim Mattis urged President Trump to get congressional approval before launching airstrikes agains… https://t.co/r6HBJptan6,470
+470,@nytimes,0.4404,Wed Apr 18 01:47:05 +0000 2018,0.0,0.805,0.195,"RT @NYTNational: ?? “Is San Francisco safe from the next big earthquake?”
+
+https://t.co/ySMIoCfe6o",471
+471,@nytimes,0.0,Wed Apr 18 01:32:05 +0000 2018,0.0,1.0,0.0,"The New York Times obituary for Barbara Bush
+https://t.co/wgJ4nGz2fd https://t.co/m1SrgUwjYL",472
+472,@nytimes,0.0,Wed Apr 18 01:22:02 +0000 2018,0.0,1.0,0.0,"RT @motokorich: Pompeo meets Kim, Trump meets Abe. Could the DMZ actually demilitarize? Will US rejoining TPP ever be other than “a thought…",473
+473,@nytimes,0.0,Wed Apr 18 01:10:38 +0000 2018,0.0,1.0,0.0,Breaking News: The CIA director Mike Pompeo is said to have met with North Korea’s Kim Jong-un in recent weeks to s… https://t.co/VDyaONO7R1,474
+474,@nytimes,0.0,Wed Apr 18 01:02:04 +0000 2018,0.0,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/Q31jFUASUr,475
+475,@nytimes,-0.4019,Wed Apr 18 00:47:02 +0000 2018,0.153,0.847,0.0,"""I don’t get confused,’ Nikki Haley says, rebuffing the White House in Russia sanctions dispute https://t.co/WEJXzG2urB",476
+476,@nytimes,0.4588,Wed Apr 18 00:32:04 +0000 2018,0.0,0.885,0.115,RT @FrankBruni: One of my favorite stories about Barbara Bush is one from her granddaughters about her lecture to them on White House etiqu…,477
+477,@nytimes,0.0,Wed Apr 18 00:22:05 +0000 2018,0.0,1.0,0.0,"The IRS website is working again, and taxpayers will get an extra day to file. Earlier the site advised: ""Come back… https://t.co/l9Pmytkbh7",478
+478,@nytimes,0.8519,Wed Apr 18 00:11:05 +0000 2018,0.0,0.712,0.288,"RT @marclacey: Bill Clinton on Barbara Bush: ""She had grit and grace, brains &amp; beauty. She was fierce and feisty in support of her family a…",479
+479,@nytimes,0.0,Wed Apr 18 00:04:00 +0000 2018,0.0,1.0,0.0,Barbara Bush: a life in photographs https://t.co/EcwTeWBTWv,480
+480,@nytimes,-0.7506,Wed Apr 18 03:47:01 +0000 2018,0.381,0.508,0.11,Legislator after legislator talked about a dire affordable-housing crisis that demanded bold action and a marked in… https://t.co/tI0b774qfT,481
+481,@nytimes,0.0,Wed Apr 18 03:32:03 +0000 2018,0.0,1.0,0.0,After crossing the finish line she asked officials what place she had come in. They told her second. She wondered w… https://t.co/VGEl6j2dg6,482
+482,@nytimes,0.0,Wed Apr 18 03:17:04 +0000 2018,0.0,1.0,0.0,"RT @karenyourish: Connect the dots: the president, his lawyer, a porn star, a Playboy model and the National Enquirer. https://t.co/1uO17mE…",483
+483,@nytimes,0.0,Wed Apr 18 03:02:03 +0000 2018,0.0,1.0,0.0,"Starbucks will close more than 8,000 of its stores in the U.S. on May 29 to conduct racial-bias training for nearly… https://t.co/iARlzFAmbs",484
+484,@nytimes,0.5859,Wed Apr 18 02:51:03 +0000 2018,0.0,0.858,0.142,RT @jakesNYT: NEW: The backstory on how the White House hung U.N. ambassador Nikki Haley out to dry on new Russia sanctions. Amazing detail…,485
+485,@nytimes,0.0,Wed Apr 18 02:47:01 +0000 2018,0.0,1.0,0.0,Here’s a look at everything Sean Hannity said about Michael Cohen on “Hannity” in the past week https://t.co/wQEdibjtGq,486
+486,@nytimes,0.7096,Wed Apr 18 02:32:02 +0000 2018,0.0,0.781,0.219,"The New York Times obituary for Carl Kasell, an NPR star, who went from news anchor to beloved comedian on the popu… https://t.co/tNsoCzEHU8",487
+487,@nytimes,0.0,Wed Apr 18 02:26:02 +0000 2018,0.0,1.0,0.0,RT @palafo: The job went to a woman https://t.co/fMXIR8MtnB,488
+488,@nytimes,-0.0516,Wed Apr 18 02:17:04 +0000 2018,0.157,0.696,0.148,RT @nytopinion: Any other president would have fired Scott Pruitt by now. But Donald Trump praises him. https://t.co/VQT9UZswJO,489
+489,@nytimes,0.5574,Wed Apr 18 02:02:07 +0000 2018,0.0,0.753,0.247,Defense Secretary Jim Mattis urged President Trump to get congressional approval before launching airstrikes agains… https://t.co/r6HBJptan6,490
+490,@nytimes,0.4404,Wed Apr 18 01:47:05 +0000 2018,0.0,0.805,0.195,"RT @NYTNational: ?? “Is San Francisco safe from the next big earthquake?”
+
+https://t.co/ySMIoCfe6o",491
+491,@nytimes,0.0,Wed Apr 18 01:32:05 +0000 2018,0.0,1.0,0.0,"The New York Times obituary for Barbara Bush
+https://t.co/wgJ4nGz2fd https://t.co/m1SrgUwjYL",492
+492,@nytimes,0.0,Wed Apr 18 01:22:02 +0000 2018,0.0,1.0,0.0,"RT @motokorich: Pompeo meets Kim, Trump meets Abe. Could the DMZ actually demilitarize? Will US rejoining TPP ever be other than “a thought…",493
+493,@nytimes,0.0,Wed Apr 18 01:10:38 +0000 2018,0.0,1.0,0.0,Breaking News: The CIA director Mike Pompeo is said to have met with North Korea’s Kim Jong-un in recent weeks to s… https://t.co/VDyaONO7R1,494
+494,@nytimes,0.0,Wed Apr 18 01:02:04 +0000 2018,0.0,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/Q31jFUASUr,495
+495,@nytimes,-0.4019,Wed Apr 18 00:47:02 +0000 2018,0.153,0.847,0.0,"""I don’t get confused,’ Nikki Haley says, rebuffing the White House in Russia sanctions dispute https://t.co/WEJXzG2urB",496
+496,@nytimes,0.4588,Wed Apr 18 00:32:04 +0000 2018,0.0,0.885,0.115,RT @FrankBruni: One of my favorite stories about Barbara Bush is one from her granddaughters about her lecture to them on White House etiqu…,497
+497,@nytimes,0.0,Wed Apr 18 00:22:05 +0000 2018,0.0,1.0,0.0,"The IRS website is working again, and taxpayers will get an extra day to file. Earlier the site advised: ""Come back… https://t.co/l9Pmytkbh7",498
+498,@nytimes,0.8519,Wed Apr 18 00:11:05 +0000 2018,0.0,0.712,0.288,"RT @marclacey: Bill Clinton on Barbara Bush: ""She had grit and grace, brains &amp; beauty. She was fierce and feisty in support of her family a…",499
+499,@nytimes,0.0,Wed Apr 18 00:04:00 +0000 2018,0.0,1.0,0.0,Barbara Bush: a life in photographs https://t.co/EcwTeWBTWv,500
